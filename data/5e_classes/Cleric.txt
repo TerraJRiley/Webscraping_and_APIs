@@ -1,0 +1,1321 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Cleric_Leveling_Table">Cleric Leveling Table</span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Features
+</th><th>Cantrips Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th><th>5th
+</th><th>6th
+</th><th>7th
+</th><th>8th
+</th><th>9th
+</th></tr>
+<tr>
+<td>1st
+</td><td>+2
+</td><td><a href="#Spellcasting">Spellcasting</a>, <a href="#Divine_Domain">Divine Domain</a>
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>2nd
+</td><td>+2
+</td><td><a href="#Channel_Divinity">Channel Divinity (1/rest)</a>, <a href="#Divine_Domain">Divine Domain feature</a>
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>3rd
+</td><td>+2
+</td><td>—
+</td><td>3
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4th
+</td><td>+2
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>5th
+</td><td>+3
+</td><td><a href="#Destroy_Undead">Destroy Undead (CR 1/2)</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>6th
+</td><td>+3
+</td><td><a href="#Channel_Divinity">Channel Divinity (2/rest)</a>, <a href="#Divine_Domain">Divine Domain feature</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7th
+</td><td>+3
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8th
+</td><td>+3
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>, <a href="#Destroy_Undead">Destroy Undead (CR 1)</a>, <a href="#Divine_Domain">Divine Domain feature</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>9th
+</td><td>+4
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10th
+</td><td>+4
+</td><td><a href="#Divine_Intervention">Divine Intervention</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11th
+</td><td>+4
+</td><td><a href="#Destroy_Undead">Destroy Undead (CR 2)</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>12th
+</td><td>+4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13th
+</td><td>+5
+</td><td>—
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>14th
+</td><td>+5
+</td><td><a href="#Destroy_Undead">Destroy Undead (CR 3)</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>15th
+</td><td>+5
+</td><td>—
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>16th
+</td><td>+5
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>17th
+</td><td>+6
+</td><td><a href="#Destroy_Undead">Destroy Undead (CR 4)</a>, <a href="#Divine_Domain">Divine Domain feature</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>18th
+</td><td>+6
+</td><td><a href="#Channel_Divinity">Channel Divinity (3/rest)</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>19th
+</td><td>+6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>20th
+</td><td>+6
+</td><td><a href="#Divine_Intervention">Divine Intervention Improvement</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>2
+</td><td>1
+</td><td>1
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Dice">Hit Dice</span></h3>
+<ul><li><b>Hit Dice:</b> 1d8 per cleric level
+</li><li><b>Hit Points at 1st Level:</b> 8 + Constitution modifier
+</li><li><b>Hit Points at Higher Levels:</b> 1d8 (or 5) + your Constitution modifier
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li><b>Armor:</b> Light armor, medium armor, shields
+</li><li><b>Weapons:</b> All simple weapons
+</li><li><b>Tools:</b> None
+</li><li><b>Saving Throws:</b> Wisdom, Charisma
+</li><li><b>Skills:</b> Choose two from History, Insight, Medicine, Persuasion, and Religion
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li>(a) a mace, or (b) a warhammer (if proficient)
+</li><li>(a) scale mail, or (b) leather armor, or (c) chain mail (if proficient)
+</li><li>(a) a light crossbow and 20 bolts, or (b) any simple weapon
+</li><li>(a) priest's pack, or (b) an explorer's pack
+</li><li>A shield and a holy symbol
+</li></ul>
+<p>You can also ignore the equipment from your class and background, and start with 5d4 x 10 gp instead.
+</p>
+<h2><span class="mw-headline" id="Spellcasting"> Spellcasting </span></h2>
+<h3><span class="mw-headline" id="Cantrips">Cantrips</span></h3>
+<p>At 1st level, you know three cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cleric_Spells" title="Cleric Spells">cleric spell list</a>. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
+</p>
+<h3><span class="mw-headline" id="Preparing_and_Casting.C2.A0Spells">Preparing and Casting Spells</span></h3>
+<p>The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p><p>You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
+</p><p>You can change your list of prepared spells when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Wisdom is your spellcasting ability for your cleric spells. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when Setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + your Wisdom modifier
+</p><p><b>Spell Attack modifier</b> = your proficiency bonus + your Wisdom modifier
+</p>
+<h3><span class="mw-headline" id="Ritual_Casting">Ritual Casting</span></h3>
+<p>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Focus">Spellcasting Focus</span></h3>
+<p>You can use a holy symbol as a spellcasting focus for your cleric spells.
+</p>
+<h2><span class="mw-headline" id="Divine_Domain"> Divine Domain </span></h2>
+<p>Choose one domain related to your deity. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+</p>
+<ul><li><a href="#Arcana_Domain">Arcana Domain</a>
+</li><li><a href="#Ambition_Domain">Ambition Domain</a>
+</li><li><a href="#City_Domain">City Domain</a>
+</li><li><a href="#Death_Domain">Death Domain</a>
+</li><li><a href="#Forge_Domain">Forge Domain</a>
+</li><li><a href="#Grave_Domain">Grave Domain</a>
+</li><li><a href="#Knowledge_Domain">Knowledge Domain</a>
+</li><li><a href="#Life_Domain">Life Domain</a>
+</li><li><a href="#Light_Domain">Light Domain</a>
+</li><li><a href="#Nature_Domain">Nature Domain</a>
+</li><li><a href="#Order_Domain">Order Domain</a>
+</li><li><a href="#Protection_Domain">Protection Domain</a>
+</li><li><a href="#Solidarity_Domain">Solidarity Domain</a>
+</li><li><a href="#Strength_Domain">Strength Domain</a>
+</li><li><a href="#Tempest_Domain">Tempest Domain</a>
+</li><li><a href="#Trickery_Domain">Trickery Domain</a>
+</li><li><a href="#War_Domain">War Domain</a>
+</li><li><a href="#Zeal_Domain">Zeal Domain</a>
+</li></ul>
+<h3><span class="mw-headline" id="Domain.C2.A0Spells">Domain Spells</span></h3>
+<p>Each domain has a list of spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+</p>
+<h2><span class="mw-headline" id="Channel_Divinity"> Channel Divinity </span></h2>
+<p>At 2nd level, you start with two abilities: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+</p><p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+</p>
+<h3><span class="mw-headline" id="Turn.C2.A0Undead">Turn Undead</span></h3>
+<p>As an action, each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+</p>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ability_Scores" title="Ability Scores">ability score</a> of your choice by +2, or you can increase two ability scores of your choice by +1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Destroy_Undead"> Destroy Undead </span></h2>
+<p>Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed. The CR of undead increases as you gain levels.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Destroys Undead of CR...
+</th></tr>
+<tr>
+<td>5th
+</td><td>1/2 or lower
+</td></tr>
+<tr>
+<td>8th
+</td><td>1 or lower
+</td></tr>
+<tr>
+<td>11th
+</td><td>2 or lower
+</td></tr>
+<tr>
+<td>14th
+</td><td>3 or lower
+</td></tr>
+<tr>
+<td>17th
+</td><td>4 or lower
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Divine_Intervention"> Divine Intervention </span></h2>
+<p>Beginning at 10th level, you can call on your deity to intervene on your behalf as an action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention.
+</p><p>If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.
+</p>
+<h2><span class="mw-headline" id="Arcana_Domain"> Arcana Domain </span></h2>
+<p><sup>(Sword Coast Adventurer's Guide)</sup>
+</p>
+<h3><span class="mw-headline" id="Arcana_Domain_Spells">Arcana Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Detect_Magic" title="Detect Magic">Detect Magic</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Missile" title="Magic Missile">Magic Missile</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Weapon" title="Magic Weapon">Magic Weapon</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Nystul%27s_Magic_Aura" title="Nystul's Magic Aura">Nystul's Magic Aura</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dispel_Magic" title="Dispel Magic">Dispel Magic</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Circle" title="Magic Circle">Magic Circle</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Arcane_Eye" title="Arcane Eye">Arcane Eye</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Leomund%27s_Secret_Chest" title="Leomund's Secret Chest">Leomund's Secret Chest</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Planar_Binding" title="Planar Binding">Planar Binding</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Teleportation_Circle" title="Teleportation Circle">Teleportation Circle</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Arcane_Initiate">Arcane Initiate</span></h3>
+<p>At 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wizard_Spells" title="Wizard Spells">wizard spell list</a>. For you, these cantrips count as cleric cantrips.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Arcane_Abjuration">Channel Divinity: Arcane Abjuration</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the Dodge action.
+</p><p>After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Banishment" title="Banishment">Banishment</a> spell, no concentration required) if it isn't on its plane of origin and if its challenge rating is at or below a certain threshold, as shown below.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Banishes Creatures of CR...
+</th></tr>
+<tr>
+<td>5th
+</td><td>1/2 or lower
+</td></tr>
+<tr>
+<td>8th
+</td><td>1 or lower
+</td></tr>
+<tr>
+<td>11th
+</td><td>2 or lower
+</td></tr>
+<tr>
+<td>14th
+</td><td>3 or lower
+</td></tr>
+<tr>
+<td>17th
+</td><td>4 or lower
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Spell_Breaker">Spell Breaker</span></h3>
+<p>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
+</p>
+<h3><span class="mw-headline" id="Potent_Spellcasting">Potent Spellcasting</span></h3>
+<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+</p>
+<h3><span class="mw-headline" id="Arcane_Mastery">Arcane Mastery</span></h3>
+<p>At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
+</p>
+<h2><span class="mw-headline" id="Ambition_Domain"> Ambition Domain </span></h2>
+<p><sup>(Plane Shift: Amonkhet)</sup>
+</p>
+<h3><span class="mw-headline" id="Ambition_Spells">Ambition Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bane" title="Bane">Bane</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Disguise_Self" title="Disguise Self">Disguise Self</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mirror_Image" title="Mirror Image">Mirror Image</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Enfeeblement" title="Ray of Enfeeblement">Ray of Enfeeblement</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bestow_Curse" title="Bestow Curse">Bestow Curse</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Vampiric_Touch" title="Vampiric Touch">Vampiric Touch</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Death_Ward" title="Death Ward">Death Ward</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dimension_Door" title="Dimension Door">Dimension Door</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Person" title="Dominate Person">Dominate Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Modify_Memory" title="Modify Memory">Modify Memory</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Warding_Flare">Warding Flare</span></h3>
+<p>At 1st level, when you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Invoke_Duplicity">Channel Divinity: Invoke Duplicity</span></h3>
+<p>Starting at 2nd level,as an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+</p><p>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Cloak_of_Shadows">Channel Divinity: Cloak of Shadows</span></h3>
+<p>Starting at 6th level, as an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
+</p>
+<h3><span class="mw-headline" id="Potent_Spellcasting_2">Potent Spellcasting</span></h3>
+<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+</p>
+<h3><span class="mw-headline" id="Improved_Duplicity">Improved Duplicity</span></h3>
+<p>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
+</p>
+<h2><span class="mw-headline" id="City_Domain"> City Domain </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="City_Domain_Spells">City Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Comprehend_Languages" title="Comprehend Languages">Comprehend Languages</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Remote_Access" title="Remote Access">Remote Access</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Find_Vehicle" title="Find Vehicle">Find Vehicle</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Heat_Metal" title="Heat Metal">Heat Metal</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Lightning_Bolt" title="Lightning Bolt">Lightning Bolt</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Ballistics" title="Protection from Ballistics">Protection from Ballistics</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Creature" title="Locate Creature">Locate Creature</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Synchronicity" title="Synchronicity">Synchronicity</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Commune_with_City" title="Commune with City">Commune with City</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shutdown" title="Shutdown">Shutdown</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Cantrip">Bonus Cantrip</span></h3>
+<p>At 1st level, you gain the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/On/Off" title="On/Off">On/Off</a> cantrip in addition to your chosen cantrips.
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiencies">Bonus Proficiencies</span></h3>
+<p>Also starting at 1st level, you gain proficiency with sidearms and proficiency with vehicles (land).
+</p>
+<h3><span class="mw-headline" id="Heart_of_the_City">Heart of the City</span></h3>
+<p>From 1st level, while you are within any city, you can gain advantage on a single Charisma (Deception, Intimidation, or Persuasion) check, and you are considered proficient in the appropriate skill. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Spirits_of_the_City">Channel Divinity: Spirits of the City</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol, and any city utility within 30 feet of you either works perfectly or shuts down entirely for 1 minute (your choice).
+</p><p>Additionally, each hostile creature within 30 feet of you must make a Charisma saving throw. On a failed save, the creature is knocked prone or restrained (your choice) by hazards such as entangling wires, high-pressure water erupting from fire hydrants, pavement collapsing to unseen potholes, and so on. A restrained creature can escape by making a successful Strength (Athletics) or Dexterity (Acrobatics) check against your spell save DC. This effect is entirely local and affects only utilities within 30 feet of you. Determination of what utilities are available within range and how the physical effects of those utilities manifest are left to the DM.
+</p>
+<h3><span class="mw-headline" id="Block_Watch">Block Watch</span></h3>
+<p>Starting at 6th level, while in an urban environment, you are considered proficient in the Insight and Perception skills, and you add double your proficiency bonus to Wisdom (Insight) and Wisdom (Perception) checks, instead of your normal proficiency bonus.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra psychic damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Express_Transit">Express Transit</span></h3>
+<p>At 17th level, starting from a bus stop, train station, subway stop, or other suitable mass transit site within the city, you can teleport to any other similar transit stop within the city, as if you had cast a teleport spell whose destination is a permanent teleportation circle you know. Once you use this feature, you must finish a short or long rest before using it again.
+</p>
+<h2><span class="mw-headline" id="Death_Domain"> Death Domain </span></h2>
+<p><sup>(Dungeon Master's Guide)</sup>
+</p>
+<h3><span class="mw-headline" id="Death_Domain_Spells">Death Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/False_Life" title="False Life">False Life</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Sickness" title="Ray of Sickness">Ray of Sickness</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blindness/Deafness" title="Blindness/Deafness">Blindness/Deafness</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Enfeeblement" title="Ray of Enfeeblement">Ray of Enfeeblement</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Animate_Dead" title="Animate Dead">Animate Dead</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Vampiric_Touch" title="Vampiric Touch">Vampiric Touch</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blight" title="Blight">Blight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Death_Ward" title="Death Ward">Death Ward</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Antilife_Shell" title="Antilife Shell">Antilife Shell</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cloudkill" title="Cloudkill">Cloudkill</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with martial weapons.
+</p>
+<h3><span class="mw-headline" id="Reaper">Reaper</span></h3>
+<p>At 1st level, you learn one necromancy cantrip of your choice from any spell list. When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Touch_of_Death">Channel Divinity: Touch of Death</span></h3>
+<p>Starting at 2nd level, when you hit a creature with a melee attack, you can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice your cleric level.
+</p>
+<h3><span class="mw-headline" id="Inescapable_Destruction">Inescapable Destruction</span></h3>
+<p>Starting at 6th level, necrotic damage dealt by your cleric spells and Channel Divinity options ignore resistance to necrotic damage.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_2">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Improved_Reaper">Improved Reaper</span></h3>
+<p>Starting at 17th level, when you casts a necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, you must provide them for each target.
+</p>
+<h2><span class="mw-headline" id="Forge_Domain"> Forge Domain </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Forge_Domain_Spells">Forge Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Identify" title="Identify">Identify</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Searing_Smite" title="Searing Smite">Searing Smite</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Heat_Metal" title="Heat Metal">Heat Metal</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Weapon" title="Magic Weapon">Magic Weapon</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Elemental_Weapon" title="Elemental Weapon">Elemental Weapon</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Energy" title="Protection from Energy">Protection from Energy</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fabricate" title="Fabricate">Fabricate</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Fire" title="Wall of Fire">Wall of Fire</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Animate_Objects" title="Animate Objects">Animate Objects</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Creation" title="Creation">Creation</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency_2">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with heavy armor and smith's tools.
+</p>
+<h3><span class="mw-headline" id="Blessing_of_the_Forge">Blessing of the Forge</span></h3>
+<p>At 1st level, at the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Artisan.27s_Blessing">Channel Divinity: Artisan's Blessing</span></h3>
+<p>Starting at 2nd level, you can conduct an hour-long ritual that crafts a nonmagical item that must include some metal. The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
+</p><p>The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual's end, magically forming even nonmetal parts of the creation.
+</p><p>The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
+</p>
+<h3><span class="mw-headline" id="Soul_of_the_Forge">Soul of the Forge</span></h3>
+<p>Starting at 6th level, you get a number of special abilities:
+</p>
+<ul><li>You gain resistance to fire damage.
+</li><li>While wearing heavy armor, you gain a +1 bonus to AC.
+</li></ul>
+<h3><span class="mw-headline" id="Divine_Strike_3">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Saint_of_Forge_and_Fire">Saint of Forge and Fire</span></h3>
+<p>At 17th level, you gain the following benefits:
+</p>
+<ul><li>You gain immunity to fire damage.
+</li><li>While you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+</li></ul>
+<h2><span class="mw-headline" id="Grave_Domain"> Grave Domain </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Grave_Domain_Spells">Grave Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bane" title="Bane">Bane</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/False_Life" title="False Life">False Life</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gentle_Repose" title="Gentle Repose">Gentle Repose</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Enfeeblement" title="Ray of Enfeeblement">Ray of Enfeeblement</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Revivify" title="Revivify">Revivify</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Vampiric_Touch" title="Vampiric Touch">Vampiric Touch</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blight" title="Blight">Blight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Death_Ward" title="Death Ward">Death Ward</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Antilife_Shell" title="Antilife Shell">Antilife Shell</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Raise_Dead" title="Raise Dead">Raise Dead</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Circle_of_Mortality">Circle of Mortality</span></h3>
+<p>At 1st level, when you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
+</p><p>In addition, you learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spare_the_Dying" title="Spare the Dying">Spare the Dying</a> cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+</p>
+<h3><span class="mw-headline" id="Eyes_of_the_Grave">Eyes of the Grave</span></h3>
+<p>At 1st level, as an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Path_to_the_Grave">Channel Divinity: Path to the Grave</span></h3>
+<p>Starting at 2nd level, as an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.
+</p>
+<h3><span class="mw-headline" id="Sentinel_at_Death.27s_Door">Sentinel at Death's Door</span></h3>
+<p>At 6th level, as a reaction when you or a creature that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Potent_Spellcasting_3">Potent Spellcasting</span></h3>
+<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+</p>
+<h3><span class="mw-headline" id="Keeper_of_Souls">Keeper of Souls</span></h3>
+<p>Starting at 17th level, when an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
+</p>
+<h2><span class="mw-headline" id="Knowledge_Domain"> Knowledge Domain </span></h2>
+<h3><span class="mw-headline" id="Knowledge_Domain_Spells">Knowledge Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Command" title="Command">Command</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Identify" title="Identify">Identify</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Augury" title="Augury">Augury</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Suggestion" title="Suggestion">Suggestion</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Nondetection" title="Nondetection">Nondetection</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Dead" title="Speak with Dead">Speak with Dead</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Arcane_Eye" title="Arcane Eye">Arcane Eye</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Confusion" title="Confusion">Confusion</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Legend_Lore" title="Legend Lore">Legend Lore</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scrying" title="Scrying">Scrying</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Blessing_of_Knowledge">Blessing of Knowledge</span></h3>
+<p>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
+</p><p>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Knowledge_of_the_Ages">Channel Divinity: Knowledge of the Ages</span></h3>
+<p>Starting at 2nd level, as an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Read_Thoughts">Channel Divinity: Read Thoughts</span></h3>
+<p>At 6th level, as an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
+</p><p>If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
+</p><p>During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+</p>
+<h3><span class="mw-headline" id="Potent_Spellcasting_4">Potent Spellcasting</span></h3>
+<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+</p>
+<h3><span class="mw-headline" id="Visions_of_the_Past">Visions of the Past</span></h3>
+<p>Starting at 17th level, you can spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<ul><li><b>Object Reading:</b> Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
+</li><li><b>Area Reading:</b> As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
+</li></ul>
+<h2><span class="mw-headline" id="Life_Domain"> Life Domain </span></h2>
+<h3><span class="mw-headline" id="Life_Domain_Spells">Life Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bless" title="Bless">Bless</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cure_Wounds" title="Cure Wounds">Cure Wounds</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Lesser_Restoration" title="Lesser Restoration">Lesser Restoration</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spiritual_Weapon" title="Spiritual Weapon">Spiritual Weapon</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Beacon_of_Hope" title="Beacon of Hope">Beacon of Hope</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Revivify" title="Revivify">Revivify</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Death_Ward" title="Death Ward">Death Ward</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guardian_of_Faith" title="Guardian of Faith">Guardian of Faith</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mass_Cure_Wounds" title="Mass Cure Wounds">Mass Cure Wounds</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Raise_Dead" title="Raise Dead">Raise Dead</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency_3">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with heavy armor.
+</p>
+<h3><span class="mw-headline" id="Disciple_of_Life">Disciple of Life</span></h3>
+<p>Also starting at 1st level, whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Preserve_Life">Channel Divinity: Preserve Life</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+</p>
+<h3><span class="mw-headline" id="Blessed_Healer">Blessed Healer</span></h3>
+<p>Beginning at 6th level, when you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_4">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Supreme.C2.A0Healing">Supreme Healing</span></h3>
+<p>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+</p>
+<h2><span class="mw-headline" id="Light_Domain"> Light Domain </span></h2>
+<h3><span class="mw-headline" id="Light_Domain_Spells">Light Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Burning_Hands" title="Burning Hands">Burning Hands</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Faerie_Fire" title="Faerie Fire">Faerie Fire</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flaming_Sphere" title="Flaming Sphere">Flaming Sphere</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scorching_Ray" title="Scorching Ray">Scorching Ray</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Daylight" title="Daylight">Daylight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fireball" title="Fireball">Fireball</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guardian_of_Faith" title="Guardian of Faith">Guardian of Faith</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Fire" title="Wall of Fire">Wall of Fire</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flame_Strike" title="Flame Strike">Flame Strike</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scrying" title="Scrying">Scrying</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Cantrip_2">Bonus Cantrip</span></h3>
+<p>When you choose this domain at 1st level, you gain the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Light" title="Light">Light</a> cantrip if you don't already know it.
+</p>
+<h3><span class="mw-headline" id="Warding_Flare_2">Warding Flare</span></h3>
+<p>Also at 1st level, when you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Radiance_of_the_Dawn">Channel Divinity: Radiance of the Dawn</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
+</p>
+<h3><span class="mw-headline" id="Improved_Flare">Improved Flare</span></h3>
+<p>Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you.
+</p>
+<h3><span class="mw-headline" id="Potent_Spellcasting_5">Potent Spellcasting</span></h3>
+<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+</p>
+<h3><span class="mw-headline" id="Corona_of_Light">Corona of Light</span></h3>
+<p>Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage.
+</p>
+<h2><span class="mw-headline" id="Nature_Domain"> Nature Domain </span></h2>
+<h3><span class="mw-headline" id="Nature_Domain_Spells">Nature Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Animal_Friendship" title="Animal Friendship">Animal Friendship</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Animals" title="Speak with Animals">Speak with Animals</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Barkskin" title="Barkskin">Barkskin</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spike_Growth" title="Spike Growth">Spike Growth</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Plant_Growth" title="Plant Growth">Plant Growth</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wind_Wall" title="Wind Wall">Wind Wall</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Beast" title="Dominate Beast">Dominate Beast</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Grasping_Vine" title="Grasping Vine">Grasping Vine</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Tree_Stride" title="Tree Stride">Tree Stride</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Acolyte_of_Nature">Acolyte of Nature</span></h3>
+<p>At 1st level, you learn one <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Druid_Spells" title="Druid Spells">druid cantrip</a> of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiency_4">Bonus Proficiency</span></h3>
+<p>Also at 1st level, you gain proficiency with heavy armor.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Charm_Animals_and_Plants">Channel Divinity: Charm Animals and Plants</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
+</p>
+<h3><span class="mw-headline" id="Dampen_Elements">Dampen Elements</span></h3>
+<p>Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_5">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Master_of_Nature">Master of Nature</span></h3>
+<p>At 17th level, while creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+</p>
+<h2><span class="mw-headline" id="Order_Domain"> Order Domain </span></h2>
+<p><sup>(Guildmasters' Guide to Ravnica)</sup>
+</p>
+<h3><span class="mw-headline" id="Order_Domain_Spells">Order Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Command" title="Command">Command</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Heroism" title="Heroism">Heroism</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Person" title="Hold Person">Hold Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Zone_of_Truth" title="Zone of Truth">Zone of Truth</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mass_Healing_Word" title="Mass Healing Word">Mass Healing Word</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Slow" title="Slow">Slow</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Compulsion" title="Compulsion">Compulsion</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Creature" title="Locate Creature">Locate Creature</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Commune" title="Commune">Commune</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Person" title="Dominate Person">Dominate Person</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_2">Bonus Proficiencies</span></h3>
+<p>At 1st level, you gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill (your choice)
+</p>
+<h3><span class="mw-headline" id="Voice_of_Authority">Voice of Authority</span></h3>
+<p>Starting at 1st level, if you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.
+</p><p>If the spell targets more than one ally, you choose the ally who can make the attack.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Order.27s_Demand">Channel Divinity: Order's Demand</span></h3>
+<p>Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
+</p><p>As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
+</p>
+<h3><span class="mw-headline" id="Embodiment_of_the_Law">Embodiment of the Law</span></h3>
+<p>At 6th level, if you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell’s casting time to 1 bonus action for this casting, provided the spell’s casting time is normally 1 action.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_6">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Order.27s_Wrath">Order's Wrath</span></h3>
+<p>Starting at 17th level, if you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
+</p>
+<h2><span class="mw-headline" id="Protection_Domain"> Protection Domain </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Protection_Domain_Spells">Protection Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Compelled_Duel" title="Compelled Duel">Compelled Duel</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Evil_and_Good" title="Protection from Evil and Good">Protection from Evil and Good</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Aid" title="Aid">Aid</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Poison" title="Protection from Poison">Protection from Poison</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Energy" title="Protection from Energy">Protection from Energy</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Slow" title="Slow">Slow</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guardian_of_Faith" title="Guardian of Faith">Guardian of Faith</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Otiluke%27s_Resilient_Sphere" title="Otiluke's Resilient Sphere">Otiluke's Resilient Sphere</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Antilife_Shell" title="Antilife Shell">Antilife Shell</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Force" title="Wall of Force">Wall of Force</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency_5">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with heavy armor.
+</p>
+<h3><span class="mw-headline" id="Shield_of_the_Faithful">Shield of the Faithful</span></h3>
+<p>Starting at 1st level, when a creature attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. To do so, you must be able to see both the attacker and the target.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Radiant_Defense">Channel Divinity: Radiant Defense</span></h3>
+<p>Starting at 2nd level, as an action, you channel blessed energy into an ally that you can see within 30 feet of you. The first time that ally is hit by an attack within the next minute, the attacker takes radiant damage equal to 2d10 + your cleric level.
+</p>
+<h3><span class="mw-headline" id="Blessed_Healer_2">Blessed Healer</span></h3>
+<p>Beginning at 6th level, when you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_7">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Indomitable_Defense">Indomitable Defense</span></h3>
+<p>At 17th level, you gain resistance to two damage types of your choice, choosing from bludgeoning, necrotic, piercing, radiant, and slashing. Whenever you finish a short or long rest, you can change the damage types you chose. As an action, you can temporarily give up this resistance and transfer it to one creature you touch. The creature keeps the resistance until the end of your next short or long rest or until you transfer it back to yourself as a bonus action.
+</p>
+<h2><span class="mw-headline" id="Solidarity_Domain"> Solidarity Domain </span></h2>
+<p><sup>(Plane Shift: Amonkhet)</sup>
+</p>
+<h3><span class="mw-headline" id="Solidarity_Domain_Spells">Solidarity Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bless" title="Bless">Bless</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guiding_Bolt" title="Guiding Bolt">Guiding Bolt</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Aid" title="Aid">Aid</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warding_Bond" title="Warding Bond">Warding Bond</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Beacon_of_Hope" title="Beacon of Hope">Beacon of Hope</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Crusader%27s_Mantle" title="Crusader's Mantle">Crusader's Mantle</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Aura_of_Life" title="Aura of Life">Aura of Life</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guardian_of_Faith" title="Guardian of Faith">Guardian of Faith</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Circle_of_Power" title="Circle of Power">Circle of Power</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mass_Cure_Wounds" title="Mass Cure Wounds">Mass Cure Wounds</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency_6">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with heavy armor.
+</p>
+<h3><span class="mw-headline" id="Solidarity.27s_Action">Solidarity's Action</span></h3>
+<p>Also at 1st level, when you take the Help action to aid an ally's attack, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Preserve_Life_2">Channel Divinity: Preserve Life</span></h3>
+<p>Starting at 2nd level, as an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+</p>
+<h3><span class="mw-headline" id="Oketra.27s_Blessing">Oketra's Blessing</span></h3>
+<p>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_8">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Supreme_Healing">Supreme Healing</span></h3>
+<p>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+</p>
+<h2><span class="mw-headline" id="Strength_Domain"> Strength Domain </span></h2>
+<p><sup>(Plane Shift: Amonkhet)</sup>
+</p>
+<h3><span class="mw-headline" id="Strength_Domain_Spells">Strength Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Divine_Favor" title="Divine Favor">Divine Favor</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shield_of_Faith" title="Shield of Faith">Shield of Faith</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Enhance_Ability" title="Enhance Ability">Enhance Ability</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Poison" title="Protection from Poison">Protection from Poison</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Haste" title="Haste">Haste</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Energy" title="Protection from Energy">Protection from Energy</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Beast" title="Dominate Beast">Dominate Beast</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stoneskin" title="Stoneskin">Stoneskin</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Destructive_Wave" title="Destructive Wave">Destructive Wave</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Acolyte_of_Strength">Acolyte of Strength</span></h3>
+<p>At 1st level, you learn one <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Druid_Spells" title="Druid Spells">druid cantrip</a> of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Athletics, Nature, or Survival.
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiency_7">Bonus Proficiency</span></h3>
+<p>Also at 1st level, you gain proficiency with heavy armor.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Feat_of_Strength">Channel Divinity: Feat of Strength</span></h3>
+<p>At 2nd level, when you make an attack roll, ability check, or saving throw using Strength, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the roll succeeds or fails.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Rhonas.27s_Blessing">Channel Divinity: Rhonas's Blessing</span></h3>
+<p>At 6th level, when a creature within 30 feet of you makes an attack roll, ability check, or saving throw using Strength, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the roll succeeds or fail.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_9">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Avatar_of_Battle">Avatar of Battle</span></h3>
+<p>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+</p>
+<h2><span class="mw-headline" id="Tempest_Domain"> Tempest Domain </span></h2>
+<h3><span class="mw-headline" id="Tempest_Domain_Spells">Tempest Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fog_Cloud" title="Fog Cloud">Fog Cloud</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Thunderwave" title="Thunderwave">Thunderwave</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gust_of_Wind" title="Gust of Wind">Gust of Wind</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shatter" title="Shatter">Shatter</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Call_Lightning" title="Call Lightning">Call Lightning</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sleet_Storm" title="Sleet Storm">Sleet Storm</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Control_Water" title="Control Water">Control Water</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ice_Storm" title="Ice Storm">Ice Storm</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Destructive_Wave" title="Destructive Wave">Destructive Wave</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_3">Bonus Proficiencies</span></h3>
+<p>At 1st level, you gain proficiency with martial weapons and heavy armor.
+</p>
+<h3><span class="mw-headline" id="Wrath_of_the_Storm">Wrath of the Storm</span></h3>
+<p>Also at 1st level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Destructive_Wrath">Channel Divinity: Destructive Wrath</span></h3>
+<p>Starting at 2nd level, when you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+</p>
+<h3><span class="mw-headline" id="Thunderbolt_Strike">Thunderbolt Strike</span></h3>
+<p>At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_10">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Stormborn">Stormborn</span></h3>
+<p>At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
+</p>
+<h2><span class="mw-headline" id="Trickery_Domain"> Trickery Domain </span></h2>
+<h3><span class="mw-headline" id="Trickery_Domain_Spells">Trickery Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Charm_Person" title="Charm Person">Charm Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Disguise_Self" title="Disguise Self">Disguise Self</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mirror_Image" title="Mirror Image">Mirror Image</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Pass_without_Trace" title="Pass without Trace">Pass without Trace</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blink" title="Blink">Blink</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dispel_Magic" title="Dispel Magic">Dispel Magic</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dimension_Door" title="Dimension Door">Dimension Door</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Polymorph" title="Polymorph">Polymorph</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Person" title="Dominate Person">Dominate Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Modify_Memory" title="Modify Memory">Modify Memory</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Blessing_of_the_Trickster">Blessing of the Trickster</span></h3>
+<p>At 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Invoke_Duplicity_2">Channel Divinity: Invoke Duplicity</span></h3>
+<p>Starting at 2nd level, as an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+</p><p>For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Cloak_of_Shadows_2">Channel Divinity: Cloak of Shadows</span></h3>
+<p>Starting at 6th level, as an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_11">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Improved_Duplicity_2">Improved Duplicity</span></h3>
+<p>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
+</p>
+<h2><span class="mw-headline" id="War_Domain"> War Domain </span></h2>
+<h3><span class="mw-headline" id="War_Domain_Spells">War Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Divine_Favor" title="Divine Favor">Divine Favor</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shield_of_Faith" title="Shield of Faith">Shield of Faith</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Weapon" title="Magic Weapon">Magic Weapon</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spiritual_Weapon" title="Spiritual Weapon">Spiritual Weapon</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Crusader%27s_Mantle" title="Crusader's Mantle">Crusader's Mantle</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spirit_Guardians" title="Spirit Guardians">Spirit Guardians</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stoneskin" title="Stoneskin">Stoneskin</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flame_Strike" title="Flame Strike">Flame Strike</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Monster" title="Hold Monster">Hold Monster</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_4">Bonus Proficiencies</span></h3>
+<p>At 1st level, you gain proficiency with martial weapons and heavy armor.
+</p>
+<h3><span class="mw-headline" id="War_Priest">War Priest</span></h3>
+<p>From 1st level, when you use the Attack action, you can make one weapon attack as a bonus action.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Guided_Strike">Channel Divinity: Guided Strike</span></h3>
+<p>Starting at 2nd level, when you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_War_God.27s_Blessing">Channel Divinity: War God's Blessing</span></h3>
+<p>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_12">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Avatar_of_Battle_2">Avatar of Battle</span></h3>
+<p>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.
+</p>
+<h2><span class="mw-headline" id="Zeal_Domain"> Zeal Domain </span></h2>
+<p><sup>(Plane Shift: Amonkhet)</sup>
+</p>
+<h3><span class="mw-headline" id="Zeal_Domain_Spells">Zeal Domain Spells</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Cleric Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Searing_Smite" title="Searing Smite">Searing Smite</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Thunderous_Smite" title="Thunderous Smite">Thunderous Smite</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Weapon" title="Magic Weapon">Magic Weapon</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shatter" title="Shatter">Shatter</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Haste" title="Haste">Haste</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fireball" title="Fireball">Fireball</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fire_Shield" title="Fire Shield">Fire Shield</a> (warm shield only), <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Destructive_Wave" title="Destructive Wave">Destructive Wave</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flame_Strike" title="Flame Strike">Flame Strike</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_5">Bonus Proficiencies</span></h3>
+<p>At 1st level, you gain proficiency with martial weapons and heavy armor.
+</p>
+<h3><span class="mw-headline" id="Priest_of_Zeal">Priest of Zeal</span></h3>
+<p>From 1st level, when you use the Attack action, you can make one weapon attack as a bonus action.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Channel_Divinity:_Consuming_Fervor">Channel Divinity: Consuming Fervor</span></h3>
+<p>Starting at 2nd level, when you roll fire or thunder damage, you can use your Channel Divinity to deal maximum damage instead of rolling.
+</p>
+<h3><span class="mw-headline" id="Resounding_Strike">Resounding Strike</span></h3>
+<p>At 6th level, when you deal thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+</p>
+<h3><span class="mw-headline" id="Divine_Strike_13">Divine Strike</span></h3>
+<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Blaze_of_Glory">Blaze of Glory</span></h3>
+<p>Starting at 17th level, when you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon's type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 820/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4445-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7980017980012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

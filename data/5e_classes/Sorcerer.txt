@@ -1,0 +1,1068 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Sorcerer_Leveling_Table"> Sorcerer Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Sorcery Points
+</th><th>Features
+</th><th>Cantrips Known
+</th><th>Spells Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th><th>5th
+</th><th>6th
+</th><th>7th
+</th><th>8th
+</th><th>9th
+</th></tr>
+<tr>
+<td>1
+</td><td>+2
+</td><td>—
+</td><td><a href="#Spellcasting">Spellcasting</a>, <a href="#Sorcerous_Origin">Sorcerous Origin</a>
+</td><td>4
+</td><td>2
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>2
+</td><td>+2
+</td><td>2
+</td><td><a href="#Font_of_Magic">Font of Magic</a>
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>3
+</td><td>+2
+</td><td>3
+</td><td><a href="#Metamagic">Metamagic</a>
+</td><td>4
+</td><td>4
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4
+</td><td>+2
+</td><td>4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>5
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>5
+</td><td>+3
+</td><td>5
+</td><td>—
+</td><td>5
+</td><td>6
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>6
+</td><td>+3
+</td><td>6
+</td><td><a href="#Sorcerous_Origin">Sorcerous Origin feature</a>
+</td><td>5
+</td><td>7
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7
+</td><td>+3
+</td><td>7
+</td><td>—
+</td><td>5
+</td><td>8
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8
+</td><td>+3
+</td><td>8
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>5
+</td><td>9
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>9
+</td><td>+4
+</td><td>9
+</td><td>—
+</td><td>5
+</td><td>10
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10
+</td><td>+4
+</td><td>10
+</td><td><a href="#Metamagic">Metamagic</a>
+</td><td>6
+</td><td>11
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11
+</td><td>+4
+</td><td>11
+</td><td>—
+</td><td>6
+</td><td>12
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>12
+</td><td>+4
+</td><td>12
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>6
+</td><td>12
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13
+</td><td>+5
+</td><td>13
+</td><td>—
+</td><td>6
+</td><td>13
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>14
+</td><td>+5
+</td><td>14
+</td><td><a href="#Sorcerous_Origin">Sorcerous Origin feature</a>
+</td><td>6
+</td><td>13
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>15
+</td><td>+5
+</td><td>15
+</td><td>—
+</td><td>6
+</td><td>14
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>16
+</td><td>+5
+</td><td>16
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>6
+</td><td>14
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>17
+</td><td>+6
+</td><td>17
+</td><td><a href="#Metamagic">Metamagic</a>
+</td><td>6
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>18
+</td><td>+6
+</td><td>18
+</td><td><a href="#Sorcerous_Origin">Sorcerous Origin feature</a>
+</td><td>6
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>19
+</td><td>+6
+</td><td>19
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>6
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>20
+</td><td>+6
+</td><td>20
+</td><td><a href="#Sorcerous_Restoration">Sorcerous Restoration</a>
+</td><td>6
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>2
+</td><td>1
+</td><td>1
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li> <b>Hit Dice:</b> 1d6 per sorcerer level
+</li><li> <b>Hit Points at 1st Level:</b> 6 + Constitution modifier
+</li><li> <b>Hit Points at Higher Levels:</b> 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li> <b>Armor:</b> None
+</li><li> <b>Weapons:</b> Daggers, darts, slings, quarterstaffs, light crossbows
+</li><li> <b>Tools:</b> None
+</li><li> <b>Saving Throws:</b> Constitution, Charisma
+</li><li> <b>Skills:</b> Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li> (a) A light crossbow and 20 bolts, or, (b) any simple weapon
+</li><li> (a) A component pouch, or, (b) an arcane focus
+</li><li> (a) A dungeoneer's pack, or, (b) an explorer's pack
+</li><li> Two daggers
+</li></ul>
+<p>Alternatively, you can ignore the equipment from your class and background and start with 3d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Spellcasting"> Spellcasting </span></h2>
+<h3><span class="mw-headline" id="Cantrips">Cantrips</span></h3>
+<p>At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+</p>
+<h3><span class="mw-headline" id="Spell_Slots">Spell Slots</span></h3>
+<p>The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spells_Known_of_1st_Level_and_Higher">Spells Known of 1st Level and Higher</span></h3>
+<p>You know two 1st-level spells of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sorcerer_Spells" title="Sorcerer Spells">sorcerer spell list</a>.
+</p><p>The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots.
+</p><p>Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Charisma is your spellcasting ability for your sorcerer spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + Charisma modifier.
+</p><p><b>Spell attack modifier</b> = Your proficiency bonus + Charisma modifier.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Focus">Spellcasting Focus</span></h3>
+<p>You can use an arcane focus as a spellcasting focus for your sorcerer spells.
+</p>
+<h2><span class="mw-headline" id="Sorcerous_Origin"> Sorcerous Origin </span></h2>
+<p>Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
+</p>
+<ul><li> <a href="#Divine_Soul">Divine Soul</a>
+</li><li> <a href="#Draconic_Bloodline">Draconic Bloodline</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sorcerer#Giant_Soul" title="Sorcerer">Giant Soul</a>
+</li><li> <a href="#Phoenix_Sorcery">Phoenix Sorcery</a>
+</li><li> <a href="#Pyromancer">Pyromancer</a>
+</li><li> <a href="#Sea_Sorcery">Sea Sorcery</a>
+</li><li> <a href="#Shadow_Magic">Shadow Magic</a>
+</li><li> <a href="#Stone_Sorcery">Stone Sorcery</a>
+</li><li> <a href="#Storm_Sorcery">Storm Sorcery</a>
+</li><li> <a href="#Wild_Magic">Wild Magic</a>
+</li></ul>
+<h2><span class="mw-headline" id="Font_of_Magic"> Font of Magic </span></h2>
+<p>At 2nd level, you gain sorcery points, which allow you to create a variety of magical effects.
+</p>
+<h3><span class="mw-headline" id="Sorcery_Points">Sorcery Points</span></h3>
+<p>You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Flexible_Casting">Flexible Casting</span></h3>
+<p>You can use your sorcery points to gain additional Spell Slots, or sacrifice Spell Slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+</p><p><b>Creating Spell Slots:</b> You can transform unexpended sorcery points into one spell slot as a  bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Slot Level
+</th><th>Cost
+</th></tr>
+<tr>
+<td>1st
+</td><td>2
+</td></tr>
+<tr>
+<td>2nd
+</td><td>3
+</td></tr>
+<tr>
+<td>3rd
+</td><td>5
+</td></tr>
+<tr>
+<td>4th
+</td><td>6
+</td></tr>
+<tr>
+<td>5th
+</td><td>7
+</td></tr></tbody></table>
+<p><b>Converting a Spell Slot to Sorcery Points:</b> As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+</p>
+<h2><span class="mw-headline" id="Metamagic"> Metamagic </span></h2>
+<p>At 3rd level, you gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+</p><p>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+</p>
+<h3><span class="mw-headline" id="Careful_Spell">Careful Spell</span></h3>
+<p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+</p>
+<h3><span class="mw-headline" id="Distant_Spell">Distant Spell</span></h3>
+<p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+</p>
+<h3><span class="mw-headline" id="Empowered_Spell">Empowered Spell</span></h3>
+<p>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
+</p><p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+</p>
+<h3><span class="mw-headline" id="Extended_Spell">Extended Spell</span></h3>
+<p>When you cast a spell with a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
+</p>
+<h3><span class="mw-headline" id="Heightened_Spell">Heightened Spell</span></h3>
+<p>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+</p>
+<h3><span class="mw-headline" id="Quickened_Spell">Quickened Spell</span></h3>
+<p>When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+</p>
+<h3><span class="mw-headline" id="Subtle_Spell">Subtle Spell</span></h3>
+<p>When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+</p>
+<h3><span class="mw-headline" id="Twinned_Spell">Twinned Spell</span></h3>
+<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+</p><p>To be eligible for Twinned Spell, a spell must be incapable of targeting more than one creature at the spell's current level.
+</p>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Sorcerous_Restoration"> Sorcerous Restoration </span></h2>
+<p>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
+</p>
+<h2><span class="mw-headline" id="Divine_Soul"> Divine Soul </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Divine_Magic">Divine Magic</span></h3>
+<p>Your link to the divine allows you to learn spells normally associated with the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cleric" title="Cleric">Cleric</a> class. When your Spellcasting feature lets you learn a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cleric_Spells" title="Cleric Spells">cleric spell list</a> or the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sorcerer_Spells" title="Sorcerer Spells">sorcerer spell list</a>. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+</p><p>In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list.
+</p>
+<table class="article-table">
+<caption>Divine Magic Spells
+</caption>
+<tbody><tr>
+<th>Affinity
+</th><th>Spell
+</th></tr>
+<tr>
+<td>Good
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cure_Wounds" title="Cure Wounds">Cure Wounds</a>
+</td></tr>
+<tr>
+<td>Evil
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Inflict_Wounds" title="Inflict Wounds">Inflict Wounds</a>
+</td></tr>
+<tr>
+<td>Law
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bless" title="Bless">Bless</a>
+</td></tr>
+<tr>
+<td>Chaos
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bane" title="Bane">Bane</a>
+</td></tr>
+<tr>
+<td>Neutrality
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Evil_and_Good" title="Protection from Evil and Good">Protection from Evil and Good</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Favored_by_the_Gods">Favored by the Gods</span></h3>
+<p>Starting at 1st level, if you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Empowered_Healing">Empowered Healing</span></h3>
+<p>Starting at 6th level, whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't incapacitated. You can use this feature only once per turn.
+</p>
+<h3><span class="mw-headline" id="Otherworldly_Wings">Otherworldly Wings</span></h3>
+<p>At 14th level, using a bonus action, you can manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
+</p><p>The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
+</p>
+<h3><span class="mw-headline" id="Unearthly_Recovery">Unearthly Recovery</span></h3>
+<p>At 18th level, as a bonus action when you have less than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="Draconic_Bloodline"> Draconic Bloodline </span></h2>
+<h3><span class="mw-headline" id="Dragon_Ancestor">Dragon Ancestor</span></h3>
+<p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Dragon
+</th><th>Damage Type
+</th></tr>
+<tr>
+<td>Black
+</td><td>Acid
+</td></tr>
+<tr>
+<td>Blue
+</td><td>Lightning
+</td></tr>
+<tr>
+<td>Brass
+</td><td>Fire
+</td></tr>
+<tr>
+<td>Bronze
+</td><td>Lightning
+</td></tr>
+<tr>
+<td>Copper
+</td><td>Acid
+</td></tr>
+<tr>
+<td>Gold
+</td><td>Fire
+</td></tr>
+<tr>
+<td>Green
+</td><td>Poison
+</td></tr>
+<tr>
+<td>Red
+</td><td>Fire
+</td></tr>
+<tr>
+<td>Silver
+</td><td>Cold
+</td></tr>
+<tr>
+<td>White
+</td><td>Cold
+</td></tr></tbody></table>
+<p>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+</p>
+<h3><span class="mw-headline" id="Draconic_Resilience">Draconic Resilience</span></h3>
+<p>At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
+</p>
+<h3><span class="mw-headline" id="Elemental_Affinity">Elemental Affinity</span></h3>
+<p>Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, add your Charisma modifier to that damage. The damage bonus applies to one damage roll of a spell, not multiple rolls. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+</p>
+<h3><span class="mw-headline" id="Dragon_Wings">Dragon Wings</span></h3>
+<p>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
+</p><p>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+</p>
+<h3><span class="mw-headline" id="Draconic_Presence">Draconic Presence</span></h3>
+<p>Beginning at 18th level, as an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration, each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+</p>
+<h2><span class="mw-headline" id="Giant_Soul"> Giant Soul </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Jotun_Resilience"> Jotun Resilience </span></h3>
+<p>At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
+</p>
+<h3><span class="mw-headline" id="Mark_of_the_Ordning"> Mark of the Ordning </span></h3>
+<p>Select one of the following giant types. At 1st and 3rd level, you learn the spells associated with your choice. These spells count as sorcerer spells, but don’t count against the number of spells known.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Giant Type
+</th><th>1st level
+</th><th>3rd level
+</th></tr>
+<tr>
+<td>Cloud
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fog_Cloud" title="Fog Cloud">Fog Cloud</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Minor_Illusion" title="Minor Illusion">Minor Illusion</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Invisibility" title="Invisibility">Invisibility</a>
+</td></tr>
+<tr>
+<td>Fire
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Burning_Hands" title="Burning Hands">Burning Hands</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fire_Bolt" title="Fire Bolt">Fire Bolt</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flaming_Sphere" title="Flaming Sphere">Flaming Sphere</a>
+</td></tr>
+<tr>
+<td>Frost
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Armor_of_Agathys" title="Armor of Agathys">Armor of Agathys</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Frost" title="Ray of Frost">Ray of Frost</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Person" title="Hold Person">Hold Person</a>
+</td></tr>
+<tr>
+<td>Hill
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Heroism" title="Heroism">Heroism</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shillelagh" title="Shillelagh">Shillelagh</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Enlarge/Reduce" title="Enlarge/Reduce">Enlarge/Reduce</a>
+</td></tr>
+<tr>
+<td>Stone
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Entangle" title="Entangle">Entangle</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Resistance" title="Resistance">Resistance</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spike_Growth" title="Spike Growth">Spike Growth</a>
+</td></tr>
+<tr>
+<td>Storm
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shocking_Grasp" title="Shocking Grasp">Shocking Grasp</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Thunderwave" title="Thunderwave">Thunderwave</a>
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gust_of_Wind" title="Gust of Wind">Gust of Wind</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Soul_of_Lost_Ostoria"> Soul of Lost Ostoria </span></h3>
+<p>Starting at 6th level, you gain a benefit whenever you cast one of the spells granted by your Mark of the Ordning feature. This benefit only applies to those spells.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Giant Type
+</th><th>Benefit
+</th></tr>
+<tr>
+<td>Cloud
+</td><td>A a bonus action, you teleport to an unoccupied space you can see that is no farther than 10 + your <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ability_Scores" title="Ability Scores">Constitution</a> modifier feet.
+</td></tr>
+<tr>
+<td>Fire
+</td><td>You gain a bonus to damage equal to your Constitution modifier (minimum of +1).
+</td></tr>
+<tr>
+<td>Frost
+</td><td>You gain temporary hit points equal to your Constitution modifier (minimum of +1). If the spell is <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Armor_of_Agathys" title="Armor of Agathys">Armor of Agathys</a>, this is added to the temporary hit points it already gives.
+</td></tr>
+<tr>
+<td>Hill
+</td><td>You can target up to two creatures within 5 feet of you that you can see. Each target must succeed on a Strength saving throw against your spell save DC or be pushed a number of feet away from you equal to 5 + your Constitution modifier (minimum of +1). A target can choose to fail this save.
+</td></tr>
+<tr>
+<td>Stone
+</td><td>You gain a bonus to AC equal to your Constitution modifier (minimum of +1) until the end of your next turn.
+</td></tr>
+<tr>
+<td>Storm
+</td><td>Up to three creatures of your choice that you can see within 30 feet of you take lightning damage equal to your Constitution modifier (minimum of 1).
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Rage_of_Fallen_Ostoria"> Rage of Fallen Ostoria </span></h3>
+<p>Starting at 14th level, when you start casting a sorcerer spell on your turn and expend a spell slot, you can increase your size by one category. This increase lasts for 1 minute, or if you die or are incapacitated.
+</p><p>Until it ends, you get the following benefits:
+</p>
+<ul><li> Your hit points and hit point maximum increase by 1 per sorcerer level.
+</li><li> Your reach increases by 5 feet.
+</li><li> Your walking speed increases by 5 feet.
+</li><li> You have advantage on <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ability_Scores" title="Ability Scores">Strength</a> checks and saving throws.
+</li><li> You gain a bonus equal to your Constitution modifier (minimum of +1) to the damage rolls of your melee weapon attacks.
+</li></ul>
+<p>Once you use this feature, you can’t use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Blessing_of_the_All_Father"> Blessing of the All Father </span></h3>
+<p>At 18th level, your Constitution score increases by 2, up to a maximum of 22.
+</p><p>In addition, you can now use Rage of Fallen Ostoria twice between rests, but no more than once on a turn. If you use it while already under its effects, its increases, with the exception of the damage bonus, are cumulative.
+</p>
+<h2><span class="mw-headline" id="Phoenix_Sorcery"> Phoenix Sorcery </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Ignite">Ignite</span></h3>
+<p>At 1st level, as an action, you can magically ignite a flammable object you touch with your hand.
+</p>
+<h3><span class="mw-headline" id="Mantle_of_Flame">Mantle of Flame</span></h3>
+<p>Starting at 1st level, as a bonus action, you magically wreathe yourself in swirling fire. For 1 minute, you gain the following benefits:
+</p>
+<ul><li>You shed bright light in a 30-foot radius and dim light for an additional 30 feet.
+</li><li>Any creature takes fire damage equal to your Charisma modifier if it hits you with a melee attack from within 5 feet of you or if it touches you.
+</li><li>Whenever you roll fire damage on your turn, the roll gains a bonus equal to your Charisma modifier.
+</li></ul>
+<p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Phoenix_Spark">Phoenix Spark</span></h3>
+<p>Starting at 6th level, if you are reduced to 0 hit points, you can use your reaction instead be reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your sorcerer level + your Charisma modifier.
+</p><p>If you use this feature while under the effects of your Mantle of Flame, this feature instead deals fire damage equal to your sorcerer level + double your Charisma modifier, and your Mantle of Flame immediately ends. Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Nourishing_Fire">Nourishing Fire</span></h3>
+<p>Starting at 14th level, when you expend a spell slot to cast a spell that includes a fire damage roll, you regain hit points equal to the slot's level + your Charisma modifier.
+</p>
+<h3><span class="mw-headline" id="Form_of_the_Phoenix">Form of the Phoenix</span></h3>
+<p>At 18th level, while under the effect of your Mantle of Flame feature, you gain additional benefits:
+</p>
+<ul><li>You have a flying speed of 40 feet and can hover.
+</li><li>You have resistance to all damage.
+</li><li>If you use your Phoenix Spark, that feature deals an extra 20 fire damage to each creature.
+</li></ul>
+<h2><span class="mw-headline" id="Pyromancer"> Pyromancer </span></h2>
+<p><sup>(Plane Shift: Kaladesh)</sup>
+</p>
+<h3><span class="mw-headline" id="Heart_of_Fire">Heart of Fire</span></h3>
+<p>At 1st level, whenever you start casting a spell of 1st level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take fire damage equal to half your sorcerer level
+</p>
+<h3><span class="mw-headline" id="Fire_in_the_Veins">Fire in the Veins</span></h3>
+<p>At 6th level, you gain resistance to fire damage. In addition, spells you cast ignore resistance to fire damage.
+</p>
+<h3><span class="mw-headline" id="Pyromancer.27s_Fury">Pyromancer's Fury</span></h3>
+<p>Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal fire damage to the attacker. The damage equals your sorcerer level, and ignores resistance to fire damage.
+</p>
+<h3><span class="mw-headline" id="Fiery_Soul">Fiery Soul</span></h3>
+<p>At 18th level, you gain immunity to fire damage. In addition, any spell or effect you create ignores resistance to fire damage and treats immunity to fire damage as resistance to fire damage.
+</p>
+<h2><span class="mw-headline" id="Sea_Sorcery"> Sea Sorcery </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Soul_of_the_Sea">Soul of the Sea</span></h3>
+<p>At 1st level, you gain the ability to to breathe underwater, and you have a swim speed equal to your walking speed.
+</p>
+<h3><span class="mw-headline" id="Curse_of_the_Sea">Curse of the Sea</span></h3>
+<p>At 1st level,when you hit a creature with a cantrip's attack or when a creature fails a saving throw against your cantrip, you can curse the target until the end of your next turn or until you curse a different creature.
+</p><p>Once per turn when you cast a spell, you can trigger the curse if that spell deals cold or lightning damage to the cursed target or forces it to move. Doing so subjects the target to the appropriate additional effect below, and then the curse ends if the spell isn't a cantrip (you choose the effect to use if more than one effect applies):
+</p>
+<ul><li><b>Cold Damage:</b> If the affected target takes cold damage from your spell, the target's speed is also reduced by 15 feet until the end of your next turn. If the spell already reduces the target's speed, use whichever reduction is greater.
+</li><li><b>Lightning Damage:</b> If the affected target takes lightning damage from your spell, the target takes additional lightning damage equal to your Charisma modifier.
+</li><li><b>Forced Movement:</b> If the target is moved by your spell, increase the distance it is moved by 15 feet.
+</li></ul>
+<h3><span class="mw-headline" id="Watery_Defense">Watery Defense</span></h3>
+<p>At 6th level, you gain resistance to fire damage. You also gain the ability to defend yourself by momentarily assuming a watery form. When you are hit by an attack that causes you to take bludgeoning, piercing, or slashing damage, you can use your reaction to reduce that damage by an amount equal to your sorcerer level plus your Charisma score, and then you can move up to 30 feet without provoking opportunity attacks. Once you use this special feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Shifting_Form">Shifting Form</span></h3>
+<p>Starting at 14th level, when you move on your turn, you take only half damage from opportunity attacks, and you can move through any enemy's space but can't willingly end your move there.
+</p><p>On your turn, you can move through any space that is at least 3 inches in diameter and do so without squeezing. When you stop moving, the regular squeezing rules apply if you're in a space one size smaller than you. You can't willingly stop in a space smaller than that, and if you're forced to do so, you immediately flow to the nearest space that can fit you, back along the path of your movement.
+</p>
+<h3><span class="mw-headline" id="Water_Soul">Water Soul</span></h3>
+<p>Starting at 18th level, you gain the following benefits:
+</p>
+<ul><li>You no longer need to eat, drink, or sleep.
+</li><li>A critical hit against you becomes a normal hit.
+</li><li>You have resistance to bludgeoning, piercing, and slashing damage.
+</li></ul>
+<h2><span class="mw-headline" id="Shadow_Magic"> Shadow Magic </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Eyes_of_the_Dark">Eyes of the Dark</span></h3>
+<p>Starting at 1st level you have darkvision with a range of 120 feet.
+</p><p>When you reach 3rd level in this class you learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Darkness" title="Darkness">Darkness</a> spell which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 Sorcery Points or by expending a spell slot. If you cast it with sorcery points, you can see through the darkness created by the spell.
+</p>
+<h3><span class="mw-headline" id="Strength_of_the_Grave">Strength of the Grave</span></h3>
+<p>Starting at 1st level, when damage reduces you to 0 hit points, you can make a Charisma saving throw (DC 5 + damage taken). On a success you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 Hit Points by radiant damage or by a critical hit.
+</p><p>After the saving throw succeeds you can't use this feature again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Hound_of_Ill_Omen">Hound of Ill Omen</span></h3>
+<p>At 6th level, as a bonus action you can spend 3 Sorcery Points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the Dire Wolf's statistics, with the following changes:
+</p>
+<ul><li>The hound is size Medium, not Large, and it counts as a Monstrosity, not a Beast.
+</li><li>It appears with a number of temporary Hit Points equal to half your Sorcerer Level.
+</li><li>It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.
+</li><li>At the start of its turn the hound automatically knows its target's location. If the target was hidden it is no longer hidden from the hound.
+</li></ul>
+<p>The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll Initiative for the hound. On its turn it can only move toward its target by the most direct route and it can use its action only to attack its target. The hound can make opportunity attacks but only against its target. Additionally, while the hound is within 5 feet of its target the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 Hit Points, if its target is reduced to 0 Hit Points, or after 5 minutes.
+</p>
+<h3><span class="mw-headline" id="Shadow_Walk">Shadow Walk</span></h3>
+<p>At 14th level when you are in dim light or darkness, as a bonus action, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.
+</p>
+<h3><span class="mw-headline" id="Umbral_Form">Umbral Form</span></h3>
+<p>Starting at 18th level, you can spend 6 Sorcery Points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
+</p><p>You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it as a bonus action.
+</p>
+<h2><span class="mw-headline" id="Stone_Sorcery"> Stone Sorcery </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiencies">Bonus Proficiencies</span></h3>
+<p>At 1st level, you gain proficiency with shields, simple weapons, and martial weapons.
+</p>
+<h3><span class="mw-headline" id="Metal_Magic">Metal Magic</span></h3>
+<p>When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spell
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Compelled_Duel" title="Compelled Duel">Compelled Duel</a>
+</td></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Searing_Smite" title="Searing Smite">Searing Smite</a>
+</td></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Thunderous_Smite" title="Thunderous Smite">Thunderous Smite</a>
+</td></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wrathful_Smite" title="Wrathful Smite">Wrathful Smite</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Branding_Smite" title="Branding Smite">Branding Smite</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Weapon" title="Magic Weapon">Magic Weapon</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blinding_Smite" title="Blinding Smite">Blinding Smite</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Elemental_Weapon" title="Elemental Weapon">Elemental Weapon</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Staggering_Smite" title="Staggering Smite">Staggering Smite</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Stone.27s_Durability">Stone's Durability</span></h3>
+<p>At 1st level, your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.
+</p><p>As an action, you can gain a base AC of 13 + your Constitution modifier if you aren't wearing armor. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield.
+</p>
+<h3><span class="mw-headline" id="Stone_Aegis">Stone Aegis</span></h3>
+<p>Starting at 6th level, as a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
+</p><p>In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can teleport only if you and the attacker are on the same surface. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 1d10 force damage. This extra damage increases to 2d10 at 11th level and 3d10 at 17th level.
+</p>
+<h3><span class="mw-headline" id="Stone.27s_Edge">Stone's Edge</span></h3>
+<p>Starting at 14th level, when you cast a spell that deals damage, choose one creature damaged by that spell on the round you cast it. That creature takes extra force damage equal to half your sorcerer level. This feature can be used only once per casting of a spell.
+</p>
+<h3><span class="mw-headline" id="Earth_Master.27s_Aegis">Earth Master's Aegis</span></h3>
+<p>Beginning at 18th level, when you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+</p>
+<h2><span class="mw-headline" id="Storm_Sorcery"> Storm Sorcery </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Wind_Speaker">Wind Speaker</span></h3>
+<p>You can speak, read, and write Primordial.
+</p><p>Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
+</p>
+<h3><span class="mw-headline" id="Tempestuous_Magic">Tempestuous Magic</span></h3>
+<p>At 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks. 
+</p>
+<h3><span class="mw-headline" id="Heart_of_the_Storm">Heart of the Storm</span></h3>
+<p>At 6th level, you gain resistance to lightning and thunder damage. In addition, whenever you cast a spell of 1st level or higher that deals lightning or thunder damage, stormy magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level. 
+</p>
+<h3><span class="mw-headline" id="Storm_Guide">Storm Guide</span></h3>
+<p>At 6th level, you gain the ability to subtly control the weather around you. 
+</p><p>If it is raining, you can use an action to cause the rain to stop falling in a 20‐foot radius centered on you. You can end this effect as a bonus action. 
+</p><p>If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100‐foot radius sphere around you. The wind blows in that direction until the end of your next turn. This feature does not alter the speed of the wind. 
+</p>
+<h3><span class="mw-headline" id="Storm.27s_Fury">Storm's Fury</span></h3>
+<p>Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your sorcerer level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
+</p>
+<h3><span class="mw-headline" id="Wind_Soul">Wind Soul</span></h3>
+<p>At 18th level, you gain immunity to lightning and thunder damage. You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a short or long rest.
+</p>
+<h2><span class="mw-headline" id="Wild_Magic"> Wild Magic </span></h2>
+<h3><span class="mw-headline" id="Wild_Magic_Surge">Wild Magic Surge</span></h3>
+<p>At 1st level, immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect.
+</p>
+<table class="article-table">
+<caption>Wild Magic Surge
+</caption>
+<tbody><tr>
+<th>d100
+</th><th>Effect
+</th><th>d100
+</th><th>Effect
+</th></tr>
+<tr>
+<td>01-02
+</td><td>Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.
+</td><td>51-52
+</td><td>A spectral <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shield" title="Shield">Shield</a> hovers near you for the next minute, granting you a +2 bonus to AC and immunity to magic missile.
+</td></tr>
+<tr>
+<td>03-04
+</td><td>For the next minute, you can see any invisible creature if you have line of sight to it.
+</td><td>53-54
+</td><td>You are immune to being intoxicated by alcohol for the next 5d6 days.
+</td></tr>
+<tr>
+<td>05-06
+</td><td>A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.
+</td><td>55-56
+</td><td>Your hair falls out but grows back within 24 hours.
+</td></tr>
+<tr>
+<td>07-08
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fireball" title="Fireball">Fireball</a> as a 3rd-level spell centered on yourself.
+</td><td>57-58
+</td><td>For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame.
+</td></tr>
+<tr>
+<td>09-10
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Missile" title="Magic Missile">Magic Missile</a> as a 5th-level spell.
+</td><td>59-60
+</td><td>You regain your lowest-level expended spell slot.
+</td></tr>
+<tr>
+<td>11-12
+</td><td>Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.
+</td><td>61-62
+</td><td>For the next minute, you must shout when you speak.
+</td></tr>
+<tr>
+<td>13-14
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Confusion" title="Confusion">Confusion</a> centered on yourself.
+</td><td>63-64
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fog_Cloud" title="Fog Cloud">Fog Cloud</a> centered on yourself.
+</td></tr>
+<tr>
+<td>15-16
+</td><td>For the next minute, you regain 5 hit points at the start of each of your turns.
+</td><td>65-66
+</td><td>Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.
+</td></tr>
+<tr>
+<td>17-18
+</td><td>You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.
+</td><td>67-68
+</td><td>You are frightened by the nearest creature until the end of your next turn.
+</td></tr>
+<tr>
+<td>19-20
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Grease" title="Grease">Grease</a> centered on yourself.
+</td><td>69-70
+</td><td>Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell.
+</td></tr>
+<tr>
+<td>21-22
+</td><td>Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw.
+</td><td>71-72
+</td><td>You gain resistance to all damage for the next minute.
+</td></tr>
+<tr>
+<td>23-24
+</td><td>Your skin turns a vibrant shade of blue. A <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Remove_Curse" title="Remove Curse">Remove Curse</a> spell can end this effect.
+</td><td>73-74
+</td><td>A random creature within 60 feet of you becomes poisoned for 1d4 hours.
+</td></tr>
+<tr>
+<td>25-26
+</td><td>An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.
+</td><td>75-76
+</td><td>You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn.
+</td></tr>
+<tr>
+<td>27-28
+</td><td>For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.
+</td><td>77-78
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Polymorph" title="Polymorph">Polymorph</a> on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration.
+</td></tr>
+<tr>
+<td>29-30
+</td><td>You teleport up to 60 feet to an unoccupied space of your choice that you can see.
+</td><td>79-80
+</td><td>Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.
+</td></tr>
+<tr>
+<td>31-32
+</td><td>You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.
+</td><td>81-82
+</td><td>You can take one additional action immediately.
+</td></tr>
+<tr>
+<td>33-34
+</td><td>Maximize the damage of the next damaging spell you cast within the next minute.
+</td><td>83-84
+</td><td>Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.
+</td></tr>
+<tr>
+<td>35-36
+</td><td>Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.
+</td><td>85-86
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mirror_Image" title="Mirror Image">Mirror Image</a>.
+</td></tr>
+<tr>
+<td>37-38
+</td><td>1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute.
+</td><td>87-88
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fly" title="Fly">Fly</a> on a random creature within 60 feet of you.
+</td></tr>
+<tr>
+<td>39-40
+</td><td>You regain 2d10 hit points.
+</td><td>89-90
+</td><td>You become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.
+</td></tr>
+<tr>
+<td>41-42
+</td><td>You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts.
+</td><td>91-92
+</td><td>If you die within the next minute, you immediately come back to life as if by the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Reincarnate" title="Reincarnate">Reincarnate</a> spell.
+</td></tr>
+<tr>
+<td>43-44
+</td><td>For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.
+</td><td>93-94
+</td><td>Your size increases by one size category for the next minute.
+</td></tr>
+<tr>
+<td>45-46
+</td><td>You cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Levitate" title="Levitate">Levitate</a> on yourself.
+</td><td>95-96
+</td><td>You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute.
+</td></tr>
+<tr>
+<td>47-48
+</td><td>A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later.
+</td><td>97-98
+</td><td>You are surrounded by faint, ethereal music for the next minute.
+</td></tr>
+<tr>
+<td>49-50
+</td><td>You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.
+</td><td>99-00
+</td><td>You regain all expended sorcery points.
+</td></tr></tbody></table>
+<p>A surge can happen once per turn. If a surge effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration.
+</p>
+<h3><span class="mw-headline" id="Tides_of_Chaos">Tides of Chaos</span></h3>
+<p>Starting at 1st level, you can gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
+</p><p>Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+</p>
+<h3><span class="mw-headline" id="Bend_Luck">Bend Luck</span></h3>
+<p>Starting at 6th level, when another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
+</p>
+<h3><span class="mw-headline" id="Controlled_Chaos">Controlled Chaos</span></h3>
+<p>At 14th level, whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
+</p>
+<h3><span class="mw-headline" id="Spell_Bombardment">Spell Bombardment</span></h3>
+<p>Beginning at 18th level, when you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 526/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4622-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7980017980012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

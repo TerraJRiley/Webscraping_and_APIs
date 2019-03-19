@@ -1,0 +1,759 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Druid_Leveling_Table"> Druid Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Features
+</th><th>Cantrips Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th><th>5th
+</th><th>6th
+</th><th>7th
+</th><th>8th
+</th><th>9th
+</th></tr>
+<tr>
+<td>1st
+</td><td>+2
+</td><td><a href="#Druidic">Druidic,</a> <a href="#Spellcasting">Spellcasting</a>
+</td><td>2
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>2nd
+</td><td>+2
+</td><td><a href="#Wild_Shape">Wild Shape</a>, <a href="#Druid_Circle">Druid Circle</a>
+</td><td>2
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>3rd
+</td><td>+2
+</td><td>—
+</td><td>2
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4th
+</td><td>+2
+</td><td><a href="#Wild_Shape">Wild Shape Improvement</a>, <a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>5th
+</td><td>+3
+</td><td>—
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>6th
+</td><td>+3
+</td><td><a href="#Druid_Circle">Druid Circle feature</a>
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7th
+</td><td>+3
+</td><td>—
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8th
+</td><td>+3
+</td><td><a href="#Wild_Shape">Wild Shape Improvement</a>, <a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>9th
+</td><td>+4
+</td><td>—
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10th
+</td><td>+4
+</td><td><a href="#Druid_Circle">Druid Circle feature</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11th
+</td><td>+4
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>12th
+</td><td>+4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13th
+</td><td>+5
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>14th
+</td><td>+5
+</td><td><a href="#Druid_Circle">Druid Circle feature</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>15th
+</td><td>+5
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>16th
+</td><td>+5
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>17th
+</td><td>+6
+</td><td>—
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>18th
+</td><td>+6
+</td><td><a href="#Timeless_Body">Timeless Body</a>, <a href="#Beast_Spells">Beast Spells</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>19th
+</td><td>+6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>20th
+</td><td>+6
+</td><td><a href="#Archdruid">Archdruid</a>
+</td><td>4
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>2
+</td><td>1
+</td><td>1
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li><b>Hit Dice:</b> 1d8 per druid level
+</li><li><b>Hit Points at 1st Level:</b> 8 + your Constitution modifier 
+</li><li><b>Hit Points at Higher Levels:</b> 1d8 (or 5) + your Constitution modifier per druid level after 1st 
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li><b>Armor</b>: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) 
+</li><li><b>Weapons</b>: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears 
+</li><li><b>Tools</b>: Herbalism kit 
+</li><li><b>Saving</b> <b>Throws</b>: Intelligence, Wisdom 
+</li><li><b>Skills</b>: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival 
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li>(a) a wooden shield or (b) any simple weapon 
+</li><li>(a) a scimitar or (b) any simple melee weapon 
+</li><li>Leather armor, an explorer's pack, and a druidic focus 
+</li></ul>
+<p>Alternatively, you can ignore the equipment given by your class and background, and start with 2d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Druidic"> Druidic </span></h2>
+<p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+</p>
+<h2><span class="mw-headline" id="Spellcasting"> Spellcasting </span></h2>
+<h3><span class="mw-headline" id="Cantrips">Cantrips</span></h3>
+<p>At 1st level, you know two cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Druid_Spells" title="Druid Spells">druid spell list</a>. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
+</p>
+<h3><span class="mw-headline" id="Preparing_and_Casting_Spells">Preparing and Casting Spells</span></h3>
+<p>The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p><p>You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+</p><p>You can also change your list of prepared spells when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Wisdom is your spellcasting ability for your druid spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+</p><p><b>Spell Save DC</b> = 8 + your proficiency bonus + your Wisdom modifier
+</p><p><b>Spell attack modifier</b> = your proficiency bonus + your Wisdom modifier
+</p>
+<h3><span class="mw-headline" id="Ritual_Casting">Ritual Casting</span></h3>
+<p>You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Focus">Spellcasting Focus</span></h3>
+<p>You can use a druidic focus as a spellcasting focus for your druid spells.
+</p>
+<h2><span class="mw-headline" id="Wild_Shape"> Wild Shape </span></h2>
+<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
+</p><p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Level
+</th><th>Max CR
+</th><th>Limitations
+</th><th>Example
+</th></tr>
+<tr>
+<td>2nd
+</td><td>1/4
+</td><td>No flying or swimming speed
+</td><td>Wolf
+</td></tr>
+<tr>
+<td>4th
+</td><td>1/2
+</td><td>No flying speed
+</td><td>Crocodile
+</td></tr>
+<tr>
+<td>8th
+</td><td>1
+</td><td>
+</td><td>Giant eagle
+</td></tr></tbody></table>
+<p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+</p><p>While you are transformed, the following rules apply:
+</p>
+<ul><li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus is higher than yours, use the creature's bonus. If the creature has any legendary or lair actions, you can't use them.
+</li><li>When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any extra damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+</li><li>You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell that you've already cast.
+</li><li>You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+</li><li>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment. Your equipment doesn't change to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+</li></ul>
+<h2><span class="mw-headline" id="Druid_Circle"> Druid Circle </span></h2>
+<p>At 2nd level, you choose to identify with a circle of druids. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+</p>
+<ul><li><a href="#Circle_of_Dreams">Circle of Dreams</a>
+</li><li><a href="#Circle_of_the_Land">Circle of the Land</a>
+</li><li><a href="#Circle_of_the_Moon">Circle of the Moon</a>
+</li><li><a href="#Circle_of_the_Shepherd">Circle of the Shepherd</a>
+</li><li><a href="#Circle_of_Spores">Circle of Spores</a>
+</li><li><a href="#Circle_of_Twilight">Circle of Twilight</a>
+</li></ul>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Timeless_Body"> Timeless Body </span></h2>
+<p>Starting at 18th level, for every 10 years that pass, your body ages only 1 year.
+</p>
+<h2><span class="mw-headline" id="Beast_Spells"> Beast Spells </span></h2>
+<p>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+</p>
+<h2><span class="mw-headline" id="Archdruid"> Archdruid </span></h2>
+<p>At 20th level, you can use your Wild Shape an unlimited number of times.
+</p><p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+</p>
+<h2><span class="mw-headline" id="Circle_of_Dreams"> Circle of Dreams </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Balm_of_the_Summer_Court">Balm of the Summer Court</span></h3>
+<p>At 2nd level, you are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level.
+</p><p>As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent.
+</p><p>You regain the expended dice when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Hearth_of_Moonlight_and_Shadow">Hearth of Moonlight and Shadow</span></h3>
+<p>At 6th level, at the start of a rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
+</p><p>While within the sphere, you and your allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
+</p><p>The sphere vanishes at the end of the rest or when you leave the sphere.
+</p>
+<h3><span class="mw-headline" id="Hidden_Paths">Hidden Paths</span></h3>
+<p>Starting at 10th level, as a bonus action on your turn, you can teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature you touch up to 30 feet to an unoccupied space you can see.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Walker_in_Dreams">Walker in Dreams</span></h3>
+<p>At 14th level, when you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dream" title="Dream">Dream</a> (with you as the messenger), <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scrying" title="Scrying">Scrying</a>, or <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Teleportation_Circle" title="Teleportation Circle">Teleportation Circle</a>.
+</p><p>This use of teleportation circle is special. Rather than opening a portal to a permanent teleportation circle, it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.  
+</p>
+<h2><span class="mw-headline" id="Circle_of_the_Land"> Circle of the Land </span></h2>
+<h3><span class="mw-headline" id="Bonus_Cantrip">Bonus Cantrip</span></h3>
+<p>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
+</p>
+<h3><span class="mw-headline" id="Natural_Recovery">Natural Recovery</span></h3>
+<p>Starting at 2nd level, during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Circle_Spells">Circle Spells</span></h3>
+<p>At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+</p>
+<h4><span class="mw-headline" id="Arctic">Arctic</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Person" title="Hold Person">Hold Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spike_Growth" title="Spike Growth">Spike Growth</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sleet_Storm" title="Sleet Storm">Sleet Storm</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Slow" title="Slow">Slow</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ice_Storm" title="Ice Storm">Ice Storm</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Commune_with_Nature" title="Commune with Nature">Commune with Nature</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cone_of_Cold" title="Cone of Cold">Cone of Cold</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Coast">Coast</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mirror_Image" title="Mirror Image">Mirror Image</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Misty_Step" title="Misty Step">Misty Step</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Water_Breathing" title="Water Breathing">Water Breathing</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Water_Walk" title="Water Walk">Water Walk</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Control_Water" title="Control Water">Control Water</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conjure_Elemental" title="Conjure Elemental">Conjure Elemental</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scrying" title="Scrying">Scrying</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Desert">Desert</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blur" title="Blur">Blur</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Silence" title="Silence">Silence</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Create_Food_and_Water" title="Create Food and Water">Create Food and Water</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Energy" title="Protection from Energy">Protection from Energy</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blight" title="Blight">Blight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hallucinatory_Terrain" title="Hallucinatory Terrain">Hallucinatory Terrain</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Stone" title="Wall of Stone">Wall of Stone</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Forest">Forest</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Barkskin" title="Barkskin">Barkskin</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spider_Climb" title="Spider Climb">Spider Climb</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Call_Lightning" title="Call Lightning">Call Lightning</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Plant_Growth" title="Plant Growth">Plant Growth</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Divination" title="Divination">Divination</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Commune_with_Nature" title="Commune with Nature">Commune with Nature</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Tree_Stride" title="Tree Stride">Tree Stride</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Grassland">Grassland</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Invisibility" title="Invisibility">Invisibility</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Pass_without_Trace" title="Pass without Trace">Pass without Trace</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Daylight" title="Daylight">Daylight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Haste" title="Haste">Haste</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Divination" title="Divination">Divination</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dream" title="Dream">Dream</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Mountain">Mountain</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spider_Climb" title="Spider Climb">Spider Climb</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spike_Growth" title="Spike Growth">Spike Growth</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Lightning_Bolt" title="Lightning Bolt">Lightning Bolt</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Meld_into_Stone" title="Meld into Stone">Meld into Stone</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stone_Shape" title="Stone Shape">Stone Shape</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stoneskin" title="Stoneskin">Stoneskin</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Passwall" title="Passwall">Passwall</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Stone" title="Wall of Stone">Wall of Stone</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Swamp">Swamp</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Darkness" title="Darkness">Darkness</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Melf%27s_Acid_Arrow" title="Melf's Acid Arrow">Melf's Acid Arrow</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Water_Walk" title="Water Walk">Water Walk</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stinking_Cloud" title="Stinking Cloud">Stinking Cloud</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Creature" title="Locate Creature">Locate Creature</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scrying" title="Scrying">Scrying</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Underdark">Underdark</span></h4>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spider_Climb" title="Spider Climb">Spider Climb</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Web" title="Web">Web</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gaseous_Form" title="Gaseous Form">Gaseous Form</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stinking_Cloud" title="Stinking Cloud">Stinking Cloud</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Greater_Invisibility" title="Greater Invisibility">Greater Invisibility</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stone_Shape" title="Stone Shape">Stone Shape</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cloudkill" title="Cloudkill">Cloudkill</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Land.27s_Stride">Land's Stride</span></h3>
+<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
+</p>
+<h3><span class="mw-headline" id="Nature.27s_Ward">Nature's Ward</span></h3>
+<p>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+</p>
+<h3><span class="mw-headline" id="Nature.27s_Sanctuary"> Nature's Sanctuary </span></h3>
+<p>When you reach 14th level, when a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. The creature is aware of this effect before it makes its attack against you.
+</p>
+<h2><span class="mw-headline" id="Circle_of_the_Moon"> Circle of the Moon </span></h2>
+<h3><span class="mw-headline" id="Combat_Wild_Shape">Combat Wild Shape</span></h3>
+<p>When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
+</p><p>Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.
+</p>
+<h3><span class="mw-headline" id="Circle_Forms">Circle Forms</span></h3>
+<p>Starting at 2nd level, you can use your Wild Shape to transform into a beast with a challenge rating as high as 1, but must abide by the other limitations there.
+</p><p>Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
+</p>
+<h3><span class="mw-headline" id="Primal_Strike">Primal Strike</span></h3>
+<p>Starting at 6th level, your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+</p>
+<h3><span class="mw-headline" id="Elemental_Wild_Shape">Elemental Wild Shape</span></h3>
+<p>At 10th level, you can expend two uses of Wild Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
+</p>
+<h3><span class="mw-headline" id="Thousand_Forms">Thousand Forms</span></h3>
+<p>By 14th level, you can cast the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Alter_Self" title="Alter Self">Alter Self</a> spell at will.
+</p>
+<h2><span class="mw-headline" id="Circle_of_the_Shepherd"> Circle of the Shepherd </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Speech_of_the_Woods">Speech of the Woods</span></h3>
+<p>At 2nd level, you learn to speak, read, and write Sylvan. In addition, beasts can understand your speech, and you gain the ability to decipher their noises and motions. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past. This ability doesn't grant you any special friendship with beasts, though you can combine this ability with gifts to curry favor.
+</p>
+<h3><span class="mw-headline" id="Spirit_Totem">Spirit Totem</span></h3>
+<p>Starting at 2nd level, as a bonus action, you can magically summon an incorporeal spirit to a point you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around that point. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents.
+</p><p>As a bonus action, you can move the spirit up to 60 feet to a point you can see.
+</p><p>The spirit persists for 1 minute or until you're incapacitated. Once you use this feature, you can't use it again until you finish a short or long rest.
+</p><p>The effect of the spirit's aura depends on the type of spirit you summon from the options below.
+</p>
+<ul><li><b>Bear Spirit:</b> Each creature of your choice in the aura when the spirit appears each gain temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
+</li><li><b>Hawk Spirit:</b> When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom (Perception) checks while in the aura.
+</li><li><b>Unicorn Spirit:</b> You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.
+</li></ul>
+<h3><span class="mw-headline" id="Mighty_Summoner">Mighty Summoner</span></h3>
+<p>At 6th level, any beast or fey summoned or created by your spells gains the following benefits:
+</p>
+<ul><li>Its hit point maximum increases by 2 per Hit Die.
+</li><li>The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
+</li></ul>
+<h3><span class="mw-headline" id="Guardian_Spirit">Guardian Spirit</span></h3>
+<p>Beginning at 10th level, when a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level.
+</p>
+<h3><span class="mw-headline" id="Faithful_Summons">Faithful Summons</span></h3>
+<p>Starting at 14th level, if you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conjure_Animals" title="Conjure Animals">Conjure Animals</a> as if it were cast with a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="Circle_of_Spores"> Circle of Spores </span></h2>
+<p><sup>(Guildmasters' Guide to Ravnica)</sup>
+</p>
+<h3><span class="mw-headline" id="Circle_Spells_2">Circle Spells</span></h3>
+<p>At 2nd level, you learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Chill_Touch" title="Chill Touch">Chill Touch</a> cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
+</p><p>Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Druid Level
+</th><th>Circle Spells
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blindness/Deafness" title="Blindness/Deafness">Blindness/Deafness</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gentle_Repose" title="Gentle Repose">Gentle Repose</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Animate_Dead" title="Animate Dead">Animate Dead</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Gaseous_Form" title="Gaseous Form">Gaseous Form</a>
+</td></tr>
+<tr>
+<td>7th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blight" title="Blight">Blight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Confusion" title="Confusion">Confusion</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cloudkill" title="Cloudkill">Cloudkill</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Contagion" title="Contagion">Contagion</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Halo_of_Spores">Halo of Spores</span></h3>
+<p>Starting at 2nd level, you can launch toxic spores at other creatures. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.
+</p>
+<h3><span class="mw-headline" id="Symbiotic_Entity">Symbiotic Entity</span></h3>
+<p>At 2nd level, when you use your Wild Shape feature, you can awaken your spores, rather than transforming. When you do so, you gain 4 temporary hit points per level you have in this class, the damage of your Halo of Spores feature doubles, and your melee weapon attacks deal an extra 1d6 poison damage to any target they hit. These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.
+</p>
+<h3><span class="mw-headline" id="Fungal_Infestation">Fungal Infestation</span></h3>
+<p>At 6th level, if a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.
+</p><p>In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spreading_Spores">Spreading Spores</span></h3>
+<p>At 10th level, as a bonus action, you hurl fungal spores up to 30 feet away, where they swirl around in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active. While the cube of spores persists, you can't use your Halo of Spores feature, but any creature that starts its turn in the cube takes your Halo of Spores damage, unless the creature succeeds on a Constitution saving throw against your spell save DC. A creature can take this damage no more than once per turn.
+</p>
+<h3><span class="mw-headline" id="Fungal_Body">Fungal Body</span></h3>
+<p>At 14th level, you can't be blinded, deafened, frightened, or poisoned, and if an attack is a critical hit against you, it doesn't deal its extra damage to you, unless you are incapacitated.
+</p>
+<h2><span class="mw-headline" id="Circle_of_Twilight"> Circle of Twilight </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Harvest.27s_Scythe">Harvest's Scythe</span></h3>
+<p>Starting at 2nd level, you have a pool of energy represented by a number of d10s equal to your druid level.
+</p><p>When you roll damage for a spell, you can increase that damage by spending dice from the pool. You can spend a number of dice equal to half your druid level or less. Roll the spent dice and add them to the damage as necrotic damage. If you kill one or more hostile creatures with a spell augmented in this way, you or an ally of your choice that you can see within 30 feet of you regains 2 hit points per die spent to increase the spell's damage, or 5 hit points per die if at least one of the slain creatures was undead.
+</p><p>You regain the expended dice when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Speech_Beyond_the_Grave">Speech Beyond the Grave</span></h3>
+<p>At 6th level, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Dead" title="Speak with Dead">Speak with Dead</a> without material components, and you understand what the target of this casting says. It can understand your questions, even if you don't share a language or it is not intelligent enough to speak.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Watcher_at_the_Threshold">Watcher at the Threshold</span></h3>
+<p>At 10th level, you gain resistance to necrotic and radiant damage. In addition, while you aren't incapacitated, any ally within 30 feet of you has advantage on death saving throws.
+</p>
+<h3><span class="mw-headline" id="Paths_of_the_Dead">Paths of the Dead</span></h3>
+<p>At 14th level, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Etherealness" title="Etherealness">Etherealness</a>. Once the spell ends, you can't cast it with this feature again until you finish a short or long rest.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 426/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4446-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7980017980012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

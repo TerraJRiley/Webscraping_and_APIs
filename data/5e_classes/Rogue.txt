@@ -1,0 +1,484 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Rogue_Leveling_Table"> Rogue Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Sneak Attack
+</th><th>Features
+</th></tr>
+<tr>
+<td>1
+</td><td>+2​
+</td><td>1d6
+</td><td><a href="#Expertise">Expertise</a>, <a href="#Sneak_Attack">Sneak Attack</a>, <a href="#Thieves.27_Cant">Thieves' Cant</a>
+</td></tr>
+<tr>
+<td>2
+</td><td>+2​
+</td><td>1d6
+</td><td><a href="#Cunning_Action">Cunning Action</a>
+</td></tr>
+<tr>
+<td>3
+</td><td>+2​
+</td><td>2d6
+</td><td><a href="#Roguish_Archetype">Roguish Archetype</a>
+</td></tr>
+<tr>
+<td>4
+</td><td>+2​
+</td><td>2d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>5
+</td><td>+3​
+</td><td>3d6
+</td><td><a href="#Uncanny_Dodge">Uncanny Dodge</a>
+</td></tr>
+<tr>
+<td>6
+</td><td>+3​
+</td><td>3d6
+</td><td><a href="#Expertise">Expertise</a>
+</td></tr>
+<tr>
+<td>7
+</td><td>+3​
+</td><td>4d6
+</td><td><a href="#Evasion">Evasion</a>
+</td></tr>
+<tr>
+<td>8
+</td><td>+3​
+</td><td>4d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>9
+</td><td>+4​
+</td><td>5d6
+</td><td>Roguish Archetype Feature
+</td></tr>
+<tr>
+<td>10
+</td><td>+4​
+</td><td>5d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>11
+</td><td>+4​
+</td><td>6d6
+</td><td><a href="#Reliable_Talent">Reliable Talent</a>
+</td></tr>
+<tr>
+<td>12
+</td><td>+4​
+</td><td>6d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>13
+</td><td>+5​
+</td><td>7d6
+</td><td>Roguish Archetype Feature
+</td></tr>
+<tr>
+<td>14
+</td><td>+5​
+</td><td>7d6
+</td><td><a href="#Blindsense">Blindsense</a>
+</td></tr>
+<tr>
+<td>15
+</td><td>+5​
+</td><td>8d6
+</td><td><a href="#Slippery_Mind">Slippery Mind</a>
+</td></tr>
+<tr>
+<td>16
+</td><td>+5​
+</td><td>8d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>17
+</td><td>+6​
+</td><td>9d6
+</td><td>Roguish Archetype Feature
+</td></tr>
+<tr>
+<td>18
+</td><td>+6​
+</td><td>9d6
+</td><td><a href="#Elusive">Elusive</a>
+</td></tr>
+<tr>
+<td>19
+</td><td>+6​
+</td><td>10d6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td></tr>
+<tr>
+<td>20
+</td><td>+6​
+</td><td>10d6
+</td><td><a href="#Stroke_of_Luck">Stroke of Luck</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li> <b>Hit Dice:</b> 1d8 per rogue level
+</li><li> <b>Hit Points at 1st Level:</b> 8 + your Constitution modifier
+</li><li> <b>Hit Points at Higher Levels:</b> 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li> <b>Armor:</b> Light armor
+</li><li> <b>Weapons:</b> Simple weapons, hand crossbows, longswords, rapiers, shortswords
+</li><li> <b>Tools:</b> Thieves' tools
+</li><li> <b>Saving Throws:</b> Dexterity, Intelligence
+</li><li> <b>Skills:</b> Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li> (a) a rapier or (b) a shortsword
+</li><li> (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+</li><li> (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
+</li><li> Leather armor, two daggers, and thieves' tools
+</li></ul>
+<p>Alternatively, you can ignore the equipment from your class and background and start with 4d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Expertise"> Expertise </span></h2>
+<p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+</p><p>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+</p>
+<h2><span class="mw-headline" id="Sneak_Attack"> Sneak Attack </span></h2>
+<p>Once per turn, you can deal extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+</p><p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+</p><p>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+</p>
+<h2><span class="mw-headline" id="Thieves.27_Cant"> Thieves' Cant </span></h2>
+<p>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+</p><p>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+</p>
+<h2><span class="mw-headline" id="Cunning_Action"> Cunning Action </span></h2>
+<p>Starting at your second level, you can use your Bonus Action to take the Dash, Disengage, or Hide action.
+</p>
+<h2><span class="mw-headline" id="Roguish_Archetype"> Roguish Archetype </span></h2>
+<p>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+</p>
+<ul><li> <a href="#Arcane_Trickster">Arcane Trickster</a>
+</li><li> <a href="#Assassin">Assassin</a>
+</li><li> <a href="#Inquisitive">Inquisitive</a>
+</li><li> <a href="#Mastermind">Mastermind</a>
+</li><li> <a href="#Scout">Scout</a>
+</li><li> <a href="#Swashbuckler">Swashbuckler</a>
+</li><li> <a href="#Thief">Thief</a>
+</li></ul>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Uncanny_Dodge"> Uncanny Dodge </span></h2>
+<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+</p>
+<h2><span class="mw-headline" id="Evasion"> Evasion </span></h2>
+<p>Beginning at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+</p>
+<h2><span class="mw-headline" id="Reliable_Talent"> Reliable Talent </span></h2>
+<p>By 11th level, whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+</p>
+<h2><span class="mw-headline" id="Blindsense"> Blindsense </span></h2>
+<p>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+</p>
+<h2><span class="mw-headline" id="Slippery_Mind"> Slippery Mind </span></h2>
+<p>By 15th level, you gain proficiency in Wisdom saving throws.
+</p>
+<h2><span class="mw-headline" id="Elusive"> Elusive </span></h2>
+<p>Beginning at 18th level, no attack roll has advantage against you while you aren't incapacitated.
+</p>
+<h2><span class="mw-headline" id="Stroke_of_Luck"> Stroke of Luck </span></h2>
+<p>At 20th level, if your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h2><span class="mw-headline" id="Arcane_Trickster"> Arcane Trickster </span></h2>
+<h3><span class="mw-headline" id="Spellcasting">Spellcasting</span></h3>
+<table class="article-table">
+<tbody><tr>
+<th>Rogue Level
+</th><th>Cantrips
+</th><th>Spells Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th></tr>
+<tr>
+<td>3rd
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4th
+</td><td>3
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7th
+</td><td>3
+</td><td>5
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8th
+</td><td>3
+</td><td>6
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10th
+</td><td>4
+</td><td>7
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11th
+</td><td>4
+</td><td>8
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13th
+</td><td>4
+</td><td>9
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td></tr>
+<tr>
+<td>14th
+</td><td>4
+</td><td>10
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td></tr>
+<tr>
+<td>16th
+</td><td>4
+</td><td>11
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td></tr>
+<tr>
+<td>19th
+</td><td>4
+</td><td>12
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td></tr>
+<tr>
+<td>20th
+</td><td>4
+</td><td>13
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Cantrips">Cantrips</span></h4>
+<p>You learn three cantrips: <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mage_Hand" title="Mage Hand">Mage Hand</a> and two other cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wizard_Spells" title="Wizard Spells">wizard spell list</a>. At 10th level you learn another cantrip from the wizard spell list.
+</p>
+<h4><span class="mw-headline" id="Spell_Slots">Spell Slots</span></h4>
+<p>The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p><p>You start with two 1st-level spell slots at Rogue level 3, and gain more as you gain more Rogue levels.
+</p>
+<h4><span class="mw-headline" id="Spells_Known">Spells Known</span></h4>
+<p>You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list. The third can be from any school of magic.
+</p><p>The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+</p><p>The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+</p><p>Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+</p>
+<h4><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h4>
+<p>Intelligence is your spellcasting ability for your wizard spells. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + your Intelligence modifier
+</p><p><b>Spell attack modifier</b> = your proficiency bonus + your Intelligence modifier
+</p>
+<h3><span class="mw-headline" id="Mage_Hand_Legerdemain">Mage Hand Legerdemain</span></h3>
+<p>Starting at 3rd level, when you cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mage_Hand" title="Mage Hand">Mage Hand</a>, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
+</p>
+<ul><li> You can stow one object the hand is holding in a container worn or carried by another creature.
+</li><li> You can retrieve an object in a container worn or carried by another creature.
+</li><li> You can use thieves' tools to pick locks and disarm traps at range.
+</li></ul>
+<p>You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creatures Wisdom (Perception) check.
+</p><p>In addition, you can use the bonus action granted by your Cunning Action to control the hand.
+</p>
+<h3><span class="mw-headline" id="Magical_Ambush">Magical Ambush</span></h3>
+<p>Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+</p>
+<h3><span class="mw-headline" id="Versatile_Trickster">Versatile Trickster</span></h3>
+<p>At 13th level, as a bonus action on your turn, you can designate a creature within 5 feet of your Mage Hand. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+</p>
+<h3><span class="mw-headline" id="Spell_Thief">Spell Thief</span></h3>
+<p>At 17th level, immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st-level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell, can cast it using your spell slots, and the creature can't cast that spell until the 8 hours have passed.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="Assassin"> Assassin </span></h2>
+<h3><span class="mw-headline" id="Bonus_Proficiencies">Bonus Proficiencies</span></h3>
+<p>You gain proficiency with a disguise kit and the poisoner's kit.
+</p>
+<h3><span class="mw-headline" id="Assassinate">Assassinate</span></h3>
+<p>Starting at 3rd level, you have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+</p>
+<h3><span class="mw-headline" id="Infiltration_Expertise">Infiltration Expertise</span></h3>
+<p>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certificates to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+</p><p>Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+</p>
+<h3><span class="mw-headline" id="Impostor">Impostor</span></h3>
+<p>At the 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerisms.
+</p><p>Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
+</p>
+<h3><span class="mw-headline" id="Death_Strike">Death Strike</span></h3>
+<p>Starting at the 17th level, when you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+</p>
+<h2><span class="mw-headline" id="Inquisitive"> Inquisitive </span></h2>
+<p><sup>(Xanathar's Guide To Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Ear_for_Deceit">Ear for Deceit</span></h3>
+<p>At 3rd level, whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.
+</p>
+<h3><span class="mw-headline" id="Eye_for_Detail">Eye for Detail</span></h3>
+<p>Starting at 3rd level, you can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.
+</p>
+<h3><span class="mw-headline" id="Insightful_Fighting">Insightful Fighting</span></h3>
+<p>At 3rd level, as a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+</p><p>This benefit lasts for 1 minute or until you successfully use this feature against a different target
+</p>
+<h3><span class="mw-headline" id="Steady_Eye">Steady Eye</span></h3>
+<p>Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.
+</p>
+<h3><span class="mw-headline" id="Unerring_Eye">Unerring Eye</span></h3>
+<p>Beginning at 13th level, as an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Eye_for_Weakness">Eye for Weakness</span></h3>
+<p>At 17th level, while your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
+</p>
+<h2><span class="mw-headline" id="Mastermind"> Mastermind </span></h2>
+<p><sup>(Xanathar's Guide To Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Master_of_Intrigue">Master of Intrigue</span></h3>
+<p>At 3rd level, you gain proficiency with the disguise kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice.
+</p><p>Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
+</p>
+<h3><span class="mw-headline" id="Master_of_Tactics">Master of Tactics</span></h3>
+<p>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.
+</p>
+<h3><span class="mw-headline" id="Insightful_Manipulator">Insightful Manipulator</span></h3>
+<p>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+</p>
+<ul><li> Intelligence score
+</li><li> Wisdom score
+</li><li> Charisma score
+</li><li> Class levels (if any)
+</li></ul>
+<p>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.
+</p>
+<h3><span class="mw-headline" id="Misdirection">Misdirection</span></h3>
+<p>Beginning at 13th level, when you are targeted by an attack, while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.
+</p>
+<h3><span class="mw-headline" id="Soul_of_Deceit">Soul of Deceit</span></h3>
+<p>Starting at 17th level, you can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
+</p><p>Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
+</p>
+<h2><span class="mw-headline" id="Scout"> Scout </span></h2>
+<p><sup>(Xanathar's Guide To Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Skirmisher">Skirmisher</span></h3>
+<p>Starting at 3rd level, you can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
+</p>
+<h3><span class="mw-headline" id="Survivalist">Survivalist</span></h3>
+<p>At 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+</p>
+<h3><span class="mw-headline" id="Superior_Mobility">Superior Mobility</span></h3>
+<p>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.
+</p>
+<h3><span class="mw-headline" id="Ambush_Master">Ambush Master</span></h3>
+<p>Starting at 13th level, you have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
+</p>
+<h3><span class="mw-headline" id="Sudden_Strike">Sudden Strike</span></h3>
+<p>Starting at 17th level, if you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+</p>
+<h2><span class="mw-headline" id="Swashbuckler"> Swashbuckler </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Fancy_Footwork">Fancy Footwork</span></h3>
+<p>At 3rd level, during your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
+</p>
+<h3><span class="mw-headline" id="Rakish_Audacity">Rakish Audacity</span></h3>
+<p>Starting at 3rd level, you can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
+</p><p>You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
+</p>
+<h3><span class="mw-headline" id="Panache">Panache</span></h3>
+<p>At 9th level, as an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
+</p><p>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
+</p><p>If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+</p>
+<h3><span class="mw-headline" id="Elegant_Maneuver">Elegant Maneuver</span></h3>
+<p>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
+</p>
+<h3><span class="mw-headline" id="Master_Duelist">Master Duelist</span></h3>
+<p>Beginning at 17th level, if you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
+</p>
+<h2><span class="mw-headline" id="Thief"> Thief </span></h2>
+<h3><span class="mw-headline" id="Fast_Hands">Fast Hands</span></h3>
+<p>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+</p>
+<h3><span class="mw-headline" id="Second-Story_Work">Second-Story Work</span></h3>
+<p>At 3rd level, climbing no longer costs you extra movement.
+</p><p>In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+</p>
+<h3><span class="mw-headline" id="Supreme_Sneak">Supreme Sneak</span></h3>
+<p>Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+</p>
+<h3><span class="mw-headline" id="Use_Magic_Device">Use Magic Device</span></h3>
+<p>By 13th level, you ignore all class, race, and level requirements on the use of magic items.
+</p>
+<h3><span class="mw-headline" id="Thief.27s_Reflexes">Thief's Reflexes</span></h3>
+<p>When you reach 17th level, you can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 438/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4869-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7990017990012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

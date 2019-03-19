@@ -1,0 +1,945 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Warlock_Leveling_Table"> Warlock Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Features
+</th><th>Cantrips Known
+</th><th>Spells Known
+</th><th>Spell Slots
+</th><th>Slot Level
+</th><th>Invocations Known
+</th></tr>
+<tr>
+<td>1st
+</td><td>+2
+</td><td><a href="#Otherworldly_Patron">Otherworldly Patron</a>, <a href="#Pact_Magic">Pact Magic</a>
+</td><td>2
+</td><td>2
+</td><td>1
+</td><td>1st
+</td><td>—
+</td></tr>
+<tr>
+<td>2nd
+</td><td>+2
+</td><td><a href="#Eldritch_Invocations">Eldritch Invocations</a>
+</td><td>2
+</td><td>3
+</td><td>2
+</td><td>1st
+</td><td>2
+</td></tr>
+<tr>
+<td>3rd
+</td><td>+2
+</td><td><a href="#Pact_Boon">Pact Boon</a>
+</td><td>2
+</td><td>4
+</td><td>2
+</td><td>2nd
+</td><td>2
+</td></tr>
+<tr>
+<td>4th
+</td><td>+2
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>5
+</td><td>2
+</td><td>2nd
+</td><td>2
+</td></tr>
+<tr>
+<td>5th
+</td><td>+3
+</td><td>—
+</td><td>3
+</td><td>6
+</td><td>2
+</td><td>3rd
+</td><td>3
+</td></tr>
+<tr>
+<td>6th
+</td><td>+3
+</td><td><a href="#Otherworldly_Patron">Otherworldly Patron feature</a>
+</td><td>3
+</td><td>7
+</td><td>2
+</td><td>3rd
+</td><td>3
+</td></tr>
+<tr>
+<td>7th
+</td><td>+3
+</td><td>—
+</td><td>3
+</td><td>8
+</td><td>2
+</td><td>4th
+</td><td>4
+</td></tr>
+<tr>
+<td>8th
+</td><td>+3
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>9
+</td><td>2
+</td><td>4th
+</td><td>4
+</td></tr>
+<tr>
+<td>9th
+</td><td>+4
+</td><td>—
+</td><td>3
+</td><td>10
+</td><td>2
+</td><td>5th
+</td><td>5
+</td></tr>
+<tr>
+<td>10th
+</td><td>+4
+</td><td><a href="#Otherworldly_Patron">Otherworldly Patron feature</a>
+</td><td>4
+</td><td>10
+</td><td>2
+</td><td>5th
+</td><td>5
+</td></tr>
+<tr>
+<td>11th
+</td><td>+4
+</td><td><a href="#Mystic_Arcanum">Mystic Arcanum (6th level)</a>
+</td><td>4
+</td><td>11
+</td><td>3
+</td><td>5th
+</td><td>5
+</td></tr>
+<tr>
+<td>12th
+</td><td>+4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>11
+</td><td>3
+</td><td>5th
+</td><td>6
+</td></tr>
+<tr>
+<td>13th
+</td><td>+5
+</td><td><a href="#Mystic_Arcanum">Mystic Arcanum (7th level)</a>
+</td><td>4
+</td><td>12
+</td><td>3
+</td><td>5th
+</td><td>6
+</td></tr>
+<tr>
+<td>14th
+</td><td>+5
+</td><td><a href="#Otherworldly_Patron">Otherworldly Patron feature</a>
+</td><td>4
+</td><td>12
+</td><td>3
+</td><td>5th
+</td><td>6
+</td></tr>
+<tr>
+<td>15th
+</td><td>+5
+</td><td><a href="#Mystic_Arcanum">Mystic Arcanum (8th level)</a>
+</td><td>4
+</td><td>13
+</td><td>3
+</td><td>5th
+</td><td>7
+</td></tr>
+<tr>
+<td>16th
+</td><td>+5
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>13
+</td><td>3
+</td><td>5th
+</td><td>7
+</td></tr>
+<tr>
+<td>17th
+</td><td>+6
+</td><td><a href="#Mystic_Arcanum">Mystic Arcanum (9th level)</a>
+</td><td>4
+</td><td>14
+</td><td>4
+</td><td>5th
+</td><td>7
+</td></tr>
+<tr>
+<td>18th
+</td><td>+6
+</td><td>—
+</td><td>4
+</td><td>14
+</td><td>4
+</td><td>5th
+</td><td>8
+</td></tr>
+<tr>
+<td>19th
+</td><td>+6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>15
+</td><td>4
+</td><td>5th
+</td><td>8
+</td></tr>
+<tr>
+<td>20th
+</td><td>+6
+</td><td><a href="#Eldritch_Master">Eldritch Master</a>
+</td><td>4
+</td><td>15
+</td><td>4
+</td><td>5th
+</td><td>8
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li> <b>Hit Dice:</b> 1d8 per warlock level
+</li><li> <b>Hit Points at 1st Level:</b> 8 + your Constitution modifier
+</li><li> <b>Hit Points at Higher Levels:</b> 1d8 (or 5) + your Constitution modifier per warlock level after 1st
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li> <b>Armor:</b> Light armor
+</li><li> <b>Weapons:</b> Simple weapons
+</li><li> <b>Tools:</b> None
+</li><li> <b>Saving Throws:</b> Wisdom, Charisma
+</li><li> <b>Skills:</b> Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li> (a) a light crossbow and 20 bolts or (b) any simple weapon
+</li><li> (a) a component pouch or (b) an arcane focus
+</li><li> (a) a scholar's pack or (b) a dungeoneer's pack<em> </em>
+</li><li> Leather armor, any simple weapon, and two daggers
+</li></ul>
+<p>Alternatively, you can ignore the equipment provided by your class and background and start with 4d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Otherworldly_Patron"> Otherworldly Patron </span></h2>
+<p>At 1st level, you have struck a bargain with an otherworldly being of your choice. Your choice grants you special features.
+</p>
+<ul><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Archfey" title="Warlock">The Archfey</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Celestial" title="Warlock">The Celestial</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Fiend" title="Warlock">The Fiend</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Ghost_in_the_Machine" title="Warlock">The Ghost in the Machine</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Great_Old_One" title="Warlock">The Great Old One</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Hexblade" title="Warlock">The Hexblade</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Raven_Queen" title="Warlock">The Raven Queen</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Seeker" title="Warlock">The Seeker</a>
+</li><li> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock#The_Undying" title="Warlock">The Undying</a>
+</li></ul>
+<h2><span class="mw-headline" id="Pact_Magic"> Pact Magic </span></h2>
+<h3><span class="mw-headline" id="Cantrips">Cantrips</span></h3>
+<p>You know two cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock_Spells" title="Warlock Spells">warlock spell list</a>. You learn additional warlock Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+</p>
+<h3><span class="mw-headline" id="Spell_Slots">Spell Slots</span></h3>
+<p>The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st through 5th level, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Spells_Known_of_1st_Level_and_Higher">Spells Known of 1st Level and Higher</span></h3>
+<p>At 1st level, you know two 1st-level spells of your choice from the warlock spell list. The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.
+</p><p>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + your Charisma modifier.
+</p><p><b>Spell Attack modifier</b> = your proficiency bonus + your Charisma modifier.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Focus">Spellcasting Focus</span></h3>
+<p>You can use an arcane focus as a spellcasting focus for your warlock spells.
+</p>
+<h2><span class="mw-headline" id="Eldritch_Invocations"> Eldritch Invocations </span></h2>
+<p>At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+</p>
+<h2><span class="mw-headline" id="Pact_Boon"> Pact Boon </span></h2>
+<p>At 3rd level, you gain one of the following features of your choice.
+</p>
+<h3><span class="mw-headline" id="Pact_of_the_Chain">Pact of the Chain</span></h3>
+<p>You learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Find_Familiar" title="Find Familiar">Find Familiar</a> spell and can cast it as a ritual. The spell doesn't count against your number of spells known. When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit or sprite. Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
+</p>
+<h3><span class="mw-headline" id="Pact_of_the_Blade">Pact of the Blade</span></h3>
+<p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage. Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+</p><p>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extra-dimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extra-dimensional space when the bond breaks.
+</p>
+<h3><span class="mw-headline" id="Pact_of_the_Tome">Pact of the Tome</span></h3>
+<p>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+</p>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Mystic_Arcanum"> Mystic Arcanum </span></h2>
+<p>At 11th level, choose one 6th-level spell from the warlock spell list as an arcanum. You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again. At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="Eldritch_Master"> Eldritch Master </span></h2>
+<p>At 20th level, you can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+</p>
+<h2><span class="mw-headline" id="The_Archfey"> The Archfey </span></h2>
+<h3><span class="mw-headline" id="Expanded_Spell_List">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Faerie_Fire" title="Faerie Fire">Faerie Fire</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sleep" title="Sleep">Sleep</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Calm_Emotions" title="Calm Emotions">Calm Emotions</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Phantasmal_Force" title="Phantasmal Force">Phantasmal Force</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blink" title="Blink">Blink</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Plant_Growth" title="Plant Growth">Plant Growth</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Beast" title="Dominate Beast">Dominate Beast</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Greater_Invisibility" title="Greater Invisibility">Greater Invisibility</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Person" title="Dominate Person">Dominate Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Seeming" title="Seeming">Seeming</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Fey_Presence">Fey Presence</span></h3>
+<p>Starting at 1st level, as an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throw are all charmed or frightened by you (your choice) until the end of your next turn.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Misty_Escape">Misty Escape</span></h3>
+<p>Starting at 6th level, when you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Beguiling_Defenses">Beguiling Defenses</span></h3>
+<p>Beginning at 10th level, you are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+</p>
+<h3><span class="mw-headline" id="Dark_Delirium">Dark Delirium</span></h3>
+<p>Starting at 14th level, as an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+</p><p>Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
+</p><p>You must finish a short or long rest before you can use this feature again.
+</p>
+<h2><span class="mw-headline" id="The_Celestial"> The Celestial </span></h2>
+<p><sup>(Xanathar's Guide To Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_2">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guiding_Bolt" title="Guiding Bolt">Guiding Bolt</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cure_Wounds" title="Cure Wounds">Cure Wounds</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flaming_Sphere" title="Flaming Sphere">Flaming Sphere</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Lesser_Restoration" title="Lesser Restoration">Lesser Restoration</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Daylight" title="Daylight">Daylight</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Revivify" title="Revivify">Revivify</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Guardian_of_Faith" title="Guardian of Faith">Guardian of Faith</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Fire" title="Wall of Fire">Wall of Fire</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flame_Strike" title="Flame Strike">Flame Strike</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Greater_Restoration" title="Greater Restoration">Greater Restoration</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Cantrips">Bonus Cantrips</span></h3>
+<p>At 1st level, you learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sacred_Flame" title="Sacred Flame">Sacred Flame</a> and <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Light" title="Light">Light</a> cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+</p>
+<h3><span class="mw-headline" id="Healing_Light">Healing Light</span></h3>
+<p>At 1st level, you have a pool of d6s that you can spend to heal others. The number of dice in the pool equals 1 + your warlock level.
+</p><p>As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.
+</p><p>Your pool regains all expended dice when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Radiant_Soul">Radiant Soul</span></h3>
+<p>Starting at 6th level, you have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you can add your Charisma modifier to one radiant or fire damage roll of that spell against one of its targets.
+</p>
+<h3><span class="mw-headline" id="Celestial_Resilience">Celestial Resilience</span></h3>
+<p>Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier.
+</p>
+<h3><span class="mw-headline" id="Searing_Vengeance">Searing Vengeance</span></h3>
+<p>Starting at 14th level, when you have to make a death saving throw at the start of your turn, you can instead spring back to your feet. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="The_Fiend"> The Fiend </span></h2>
+<h3><span class="mw-headline" id="Expanded_Spell_List_3">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Burning_Hands" title="Burning Hands">Burning Hands</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Command" title="Command">Command</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blindness/Deafness" title="Blindness/Deafness">Blindness/Deafness</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Scorching_Ray" title="Scorching Ray">Scorching Ray</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fireball" title="Fireball">Fireball</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Stinking_Cloud" title="Stinking Cloud">Stinking Cloud</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fire_Shield" title="Fire Shield">Fire Shield</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wall_of_Fire" title="Wall of Fire">Wall of Fire</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Flame_Strike" title="Flame Strike">Flame Strike</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hallow" title="Hallow">Hallow</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Dark_One.27s_Blessing">Dark One's Blessing</span></h3>
+<p>Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
+</p>
+<h3><span class="mw-headline" id="Dark_One.27s_Own_Luck">Dark One's Own Luck</span></h3>
+<p>Starting at 6th level, when you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur. Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Fiendish_Resilience">Fiendish Resilience</span></h3>
+<p>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+</p>
+<h3><span class="mw-headline" id="Hurl_Through_Hell">Hurl Through Hell</span></h3>
+<p>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape. At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience. Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="The_Ghost_in_the_Machine"> The Ghost in the Machine </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_4">Expanded Spell List</span></h3>
+<p>You gain the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/On/Off" title="On/Off">On/Off</a> cantrip, and the following new spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th> Spell Level
+</th><th> Spells
+</th></tr>
+<tr>
+<td> 1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Infallible_Relay" title="Infallible Relay">Infallible Relay</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Remote_Access" title="Remote Access">Remote Access</a>
+</td></tr>
+<tr>
+<td> 2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Arcane_Hacking" title="Arcane Hacking">Arcane Hacking</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Digital_Phantom" title="Digital Phantom">Digital Phantom</a>
+</td></tr>
+<tr>
+<td> 3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Haywire" title="Haywire">Haywire</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Invisibility_to_Cameras" title="Invisibility to Cameras">Invisibility to Cameras</a>
+</td></tr>
+<tr>
+<td> 4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conjure_Knowbot" title="Conjure Knowbot">Conjure Knowbot</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/System_Backdoor" title="System Backdoor">System Backdoor</a>
+</td></tr>
+<tr>
+<td> 5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shutdown" title="Shutdown">Shutdown</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Synchronicity" title="Synchronicity">Synchronicity</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Bonus_Proficiency">Bonus Proficiency</span></h3>
+<p>At 1st level, you gain proficiency with hacking tools.
+</p>
+<h3><span class="mw-headline" id="Information_Surge">Information Surge</span></h3>
+<p>At 1st level, as an action, you can target a computerized device within 30 feet of you. If the targeted device is held or otherwise actively used by a living creature, that creature must make an Intelligence saving throw against your spell save DC. On a failed save, the targeted device cease to function until the end of your next turn. If the targeted device is not held or used by a creature, the DM makes a special saving throw for the device with disadvantage and a +0 modifier. Certain shielded devices might negate the disadvantage, at the DM's determination. Once you use this feature, you can't use it again until you finish a short or long rest
+</p>
+<h3><span class="mw-headline" id="Wire_Walk">Wire Walk</span></h3>
+<p>Starting at 6th level, as a bonus action, you can touch a device or socket connected to a hardwired network and teleport along this network to another device or socket within your line of sight. Once you use this feature, you can't  use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Personal_Encryption">Personal Encryption</span></h3>
+<p>Beginning at 10th level, you have advantage on saving throws against scrying, thought detection, or any other method of magically learning your whereabouts or reading your thoughts. For any such effect that does not  grant you a saving throw but which requires the creature targeting you to make an ability check, the check is made with disadvantage.
+</p>
+<h3><span class="mw-headline" id="Technovirus">Technovirus</span></h3>
+<p>At 14th level, you can use an action to make a melee attack against a humanoid creature using your spell attack modifier. The target must make a Constitution saving throw against your spell save DC as a techno organic virus quickly spreads through its body. On a failed save, the target takes 8d10 psychic damage, or half as much damage on a successful one. Additionally, if the target fails the saving throw, you can use an action to issue it a single command, as if you were casting the command spell. The target makes its saving throw against your command with disadvantage. You can issue this command at any time while the target remains infected. Once you use this feature, you can't use it again until you finish a long rest, at which point the target is cured of the technovirus. The infection can also be removed with a lesser restoration spell.
+</p>
+<h2><span class="mw-headline" id="The_Great_Old_One"> The Great Old One </span></h2>
+<h3><span class="mw-headline" id="Expanded_Spell_List_5">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dissonant_Whispers" title="Dissonant Whispers">Dissonant Whispers</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Tasha%27s_Hideous_Laughter" title="Tasha's Hideous Laughter">Tasha's Hideous Laughter</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Detect_Thoughts" title="Detect Thoughts">Detect Thoughts</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Phantasmal_Force" title="Phantasmal Force">Phantasmal Force</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Clairvoyance" title="Clairvoyance">Clairvoyance</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sending" title="Sending">Sending</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Beast" title="Dominate Beast">Dominate Beast</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Evard%27s_Black_Tentacles" title="Evard's Black Tentacles">Evard's Black Tentacles</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Dominate_Person" title="Dominate Person">Dominate Person</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Telekinesis" title="Telekinesis">Telekinesis</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Awakened_Mind">Awakened Mind</span></h3>
+<p>Starting at 1st level, you can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language. Additionally, the creature does not gain the ability to telepathically reply, despite you being able to speak to it.
+</p>
+<h3><span class="mw-headline" id="Entropic_Ward">Entropic Ward</span></h3>
+<p>At 6th level, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Thought_Shield">Thought Shield</span></h3>
+<p>Starting at 10th level, you have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do. Additionally, your thoughts can't be read unless you allow it.
+</p>
+<h3><span class="mw-headline" id="Create_Thrall">Create Thrall</span></h3>
+<p>At 14th level, you can use your action to touch an incapacitated humanoid. That creature is charmed by you until a <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Remove_Curse" title="Remove Curse">Remove Curse</a> spell is cast on it, the charm condition is removed from it, or you use this feature again. You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.
+</p>
+<h2><span class="mw-headline" id="The_Hexblade"> The Hexblade </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_6">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Shield" title="Shield">Shield</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Wrathful_Smite" title="Wrathful Smite">Wrathful Smite</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blur" title="Blur">Blur</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Branding_Smite" title="Branding Smite">Branding Smite</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blink" title="Blink">Blink</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Elemental_Weapon" title="Elemental Weapon">Elemental Weapon</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Phantasmal_Killer" title="Phantasmal Killer">Phantasmal Killer</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Staggering_Smite" title="Staggering Smite">Staggering Smite</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Banishing_Smite" title="Banishing Smite">Banishing Smite</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cone_of_Cold" title="Cone of Cold">Cone of Cold</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Hex_Warrior">Hex Warrior</span></h3>
+<p>At 1st level, you gain proficiency with medium armor, shields, and martial weapons.
+</p><p>Additionally, whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
+</p>
+<h3><span class="mw-headline" id="Hexblade.27s_Curse">Hexblade's Curse</span></h3>
+<p>Starting at 1st level, as a bonus action, choose one creature you can see within 30 feet of you. The curse ends early if the target dies, you die, or you are incapacitated. The target is cursed for 1 minute. Until the curse ends, you gain the following benefits:
+</p>
+<ul><li> You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
+</li><li> Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
+</li><li> If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier.
+</li></ul>
+<p>You can't use this feature again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Accursed_Specter">Accursed Specter</span></h3>
+<p>Starting at 6th level, when you slay a humanoid, you can cause its spirit to rise from its corpse as a specter, the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0). The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife. Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Armor_of_Hexes">Armor of Hexes</span></h3>
+<p>At 10th level, if the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+</p>
+<h3><span class="mw-headline" id="Master_of_Hexes">Master of Hexes</span></h3>
+<p>Starting at 14th level, when the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+</p>
+<h2><span class="mw-headline" id="The_Raven_Queen"> The Raven Queen </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_7">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/False_Life" title="False Life">False Life</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sanctuary" title="Sanctuary">Sanctuary</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Silence" title="Silence">Silence</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spiritual_Weapon" title="Spiritual Weapon">Spiritual Weapon</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Feign_Death" title="Feign Death">Feign Death</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Dead" title="Speak with Dead">Speak with Dead</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ice_Storm" title="Ice Storm">Ice Storm</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Creature" title="Locate Creature">Locate Creature</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Commune" title="Commune">Commune</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Cone_of_Cold" title="Cone of Cold">Cone of Cold</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Sentinel_Raven">Sentinel Raven</span></h3>
+<p>Starting at 1st level, you gain a spirit that assumes the form and game statistics of a raven. It always obeys your commands, which you can give telepathically while it is within 100 feet of you. While the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and a bonus to your passive Wisdom (Perception) score and to Wisdom (Perception) checks. The bonus equals your Charisma modifier.
+</p>
+<ul><li> While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.
+</li><li> You can see through the raven's eyes and hear what it hears while it is within 100 feet of you.
+</li><li> In combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.
+</li><li> The raven doesn't require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action.
+</li><li> The raven vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles. At the end of a short or long rest, you can call the raven back to you—no matter where it is or whether it died—and it reappears within 5 feet of you.
+</li></ul>
+<h3><span class="mw-headline" id="Soul_of_the_Raven">Soul of the Raven</span></h3>
+<p>At 6th level, as a bonus action when your raven is perched on your shoulder, your body merges with your raven's form. While merged, you become Tiny, you replace your speed with the raven's, and you can use your action only to Dash, Disengage, Dodge, Help, Hide, or Search. During this time, you gain the benefits of your raven being perched on your shoulder. As an action, you and the raven return to normal.
+</p>
+<h3><span class="mw-headline" id="Raven.27s_Shield">Raven's Shield</span></h3>
+<p>At 10th level, you gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage.
+</p>
+<h3><span class="mw-headline" id="Queen.27s_Right_Hand">Queen's Right Hand</span></h3>
+<p>Starting at 14th level, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Finger_of_Death" title="Finger of Death">Finger of Death</a>. After you cast the spell with this feature, you can't do so again until you finish a long rest.
+</p>
+<h2><span class="mw-headline" id="The_Seeker"> The Seeker </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_8">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Feather_Fall" title="Feather Fall">Feather Fall</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Jump" title="Jump">Jump</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Levitate" title="Levitate">Levitate</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Object" title="Locate Object">Locate Object</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Clairvoyance" title="Clairvoyance">Clairvoyance</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Sending" title="Sending">Sending</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Arcane_Eye" title="Arcane Eye">Arcane Eye</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Locate_Creature" title="Locate Creature">Locate Creature</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Legend_Lore" title="Legend Lore">Legend Lore</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Passwall" title="Passwall">Passwall</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Shielding_Aurora">Shielding Aurora</span></h3>
+<p>Starting at 1st level, as a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes radiant damage equal to your warlock level + your Charisma modifier.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Pact_Boon:_Pact_of_the_Star_Chain">Pact Boon: Pact of the Star Chain</span></h3>
+<p>At 3rd level, a character dedicated to the Seeker can select this option instead of one of the warlock's existing Pact Boon options. ​The Seeker grants you a chain forged from starlight. While the chain is on your person, you know the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Augury" title="Augury">Augury</a><i> </i>spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+</p><p>Additionally, you can invoke the Seeker's power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.
+</p><p>​If you lose your Star Chain, you can perform a 1-hour ceremony to receive a replacement from the Seeker. The ceremony can be performed during a short or long rest, and it destroys the previous chain. The chain disappears in a flash of light when you die.
+</p>
+<h3><span class="mw-headline" id="Astral_Refuge">Astral Refuge</span></h3>
+<p>At 6th level, as an action, you disappear from the world for a brief moment and enter the Astral Plane, taking advantage of its timeless nature. While in your astral refuge, you can take two actions to cast spells that target only you. After using those two actions, you return to the space you occupied and your turn ends.
+</p>
+<h3><span class="mw-headline" id="Far_Wanderer">Far Wanderer</span></h3>
+<p>At 10th level, you no longer need to breathe, and you gain resistance to fire damage and cold damage.
+</p>
+<h3><span class="mw-headline" id="Astral_Sequestration">Astral Sequestration</span></h3>
+<p>Starting at 14th level, by performing a special ritual over the course of 5 minutes, you shift yourself and up to ten willing creatures you can see to the Astral Plane. You and those creatures gain the benefits of a short rest while sequestered on the Astral Plane. You then return to the spaces you all occupied when you used this ability, with no time having passed in the world. ​During this short rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester. ​Once you use this ability, you cannot use it again until you complete a long rest.
+</p>
+<h2><span class="mw-headline" id="The_Undying"> The Undying </span></h2>
+<p><sup>(Sword Coast Adventurer's Guide)</sup>
+</p>
+<h3><span class="mw-headline" id="Expanded_Spell_List_9">Expanded Spell List</span></h3>
+<p>The following spells are added to the warlock spell list for you.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Spell Level
+</th><th>Spells
+</th></tr>
+<tr>
+<td>1st
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/False_Life" title="False Life">False Life</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ray_of_Sickness" title="Ray of Sickness">Ray of Sickness</a>
+</td></tr>
+<tr>
+<td>2nd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Blindness/Deafness" title="Blindness/Deafness">Blindness/Deafness</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Silence" title="Silence">Silence</a>
+</td></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Feign_Death" title="Feign Death">Feign Death</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Dead" title="Speak with Dead">Speak with Dead</a>
+</td></tr>
+<tr>
+<td>4th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Aura_of_Life" title="Aura of Life">Aura of Life</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Death_Ward" title="Death Ward">Death Ward</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Contagion" title="Contagion">Contagion</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Legend_Lore" title="Legend Lore">Legend Lore</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Among_the_Dead">Among the Dead</span></h3>
+<p>Starting at 1st level, you learn the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Spare_the_Dying" title="Spare the Dying">Spare the Dying</a> cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
+</p><p>Additionally, if an undead targets you directly with an attack or a harmful spell that is not an AoE that happens to include you, that creature must make a Wisdom saving throw against your spell save DC. On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
+</p>
+<h3><span class="mw-headline" id="Defy_Death">Defy Death</span></h3>
+<p>Starting at 6th level,you can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Undying_Nature">Undying Nature</span></h3>
+<p>Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+</p><p>In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
+</p>
+<h3><span class="mw-headline" id="Indestructible_Life">Indestructible Life</span></h3>
+<p>When you reach 14th level,on your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.
+</p>
+<h2><span class="mw-headline" id="Eldritch_Invocations_2"> Eldritch Invocations </span></h2>
+<p>If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+</p>
+<h3><span class="mw-headline" id="Agonizing_Blast">Agonizing Blast</span></h3>
+<p><b>Prerequisite:</b> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+</p>
+<h3><span class="mw-headline" id="Arcane_Gunslinger">Arcane Gunslinger</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite:</b> Pact of the Blade feature, Modern Magic setting
+</p><p>You can create a pact weapon that is a sidearm or long arm, and you can transform a magical sidearm or long arm into your pact weapon.
+</p>
+<h3><span class="mw-headline" id="Armor_of_Shadows">Armor of Shadows</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Mage_Armor" title="Mage Armor">Mage Armor</a> on yourself at will, without expending a spell slot or material components.
+</p>
+<h3><span class="mw-headline" id="Ascendant_Step">Ascendant Step</span></h3>
+<p><b>Prerequisite:</b> 9th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Levitate" title="Levitate">Levitate</a> on yourself at will, without expending a spell slot or material components.
+</p>
+<h3><span class="mw-headline" id="Aspect_of_the_Moon"><u>Aspect of the Moon</u></span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> Pact of the Tome
+</p><p>You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+</p>
+<h3><span class="mw-headline" id="Beast_Speech">Beast Speech</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Animals" title="Speak with Animals">Speak with Animals</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Beguiling_Influence">Beguiling Influence</span></h3>
+<p>You gain proficiency in the Deception and Persuasion skills.
+</p>
+<h3><span class="mw-headline" id="Bewitching_Whispers">Bewitching Whispers</span></h3>
+<p><b>Prerequisite:</b> 7th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Compulsion" title="Compulsion">Compulsion</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Book_of_Ancient_Secrets">Book of Ancient Secrets</span></h3>
+<p><b>Prerequisite:</b> Pact of the Tome feature
+</p><p>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+</p>
+<h3><span class="mw-headline" id="Chains_of_Carceri">Chains of Carceri</span></h3>
+<p><b>Prerequisite:</b> 15th level, Pact of the Chain feature
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Monster" title="Hold Monster">Hold Monster</a> at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+</p>
+<h3><span class="mw-headline" id="Chronicle_of_the_Raven_Queen">Chronicle of the Raven Queen</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite:</b> Raven Queen patron, Pact of the Tome feature
+</p><p>You can place a corpse's hand or similar appendage on your Book of Shadows and ask one question aloud. After 1 minute, the answer appears written in blood in your book. The answer is provided by the dead creature's spirit to the best of its knowledge and is translated into a language of your choice. You must use this ability within 1 minute of a creature's death, and a given creature can only be asked one question in this manner.
+</p>
+<h3><span class="mw-headline" id="Cloak_of_Flies">Cloak of Flies</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 5th level
+</p><p>As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
+</p><p>The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
+</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest
+</p>
+<h3><span class="mw-headline" id="Devil.27s_Sight">Devil's Sight</span></h3>
+<p>You can see normally in darkness, both magical and non-magical, to a distance of 120 feet.
+</p>
+<h3><span class="mw-headline" id="Dreadful_Word">Dreadful Word</span></h3>
+<p><b>Prerequisite:</b> 7th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Confusion" title="Confusion">Confusion</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Eldritch_Sight">Eldritch Sight</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Detect_Magic" title="Detect Magic">Detect Magic</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Eldritch_Smite">Eldritch Smite</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 5th level, Pact of the Blade feature
+</p><p>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.
+</p>
+<h3><span class="mw-headline" id="Eldritch_Spear">Eldritch Spear</span></h3>
+<p><b>Prerequisite:</b> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>When you cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a>, its range is 300 feet.
+</p>
+<h3><span class="mw-headline" id="Eyes_of_the_Rune_Keeper">Eyes of the Rune Keeper</span></h3>
+<p>You can read all writing. You can comprehend any written word or symbol, should it hold any linguistic meaning
+</p>
+<h3><span class="mw-headline" id="Fiendish_Vigor">Fiendish Vigor</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/False_Life" title="False Life">False Life</a> on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+</p>
+<h3><span class="mw-headline" id="Gaze_of_Two_Minds">Gaze of Two Minds</span></h3>
+<p>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+</p>
+<h3><span class="mw-headline" id="Ghostly_Gaze">Ghostly Gaze</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 7th level
+</p><p>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Gift_of_the_Depths">Gift of the Depths</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 5th level
+</p><p>You can breathe underwater, and you gain a swimming speed equal to your walking speed.
+</p><p>You can also cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Water_Breathing" title="Water Breathing">Water Breathing</a> once without expending a spell slot. You regain the ability to do so when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Gift_of_the_Ever-Living_Ones">Gift of the Ever-Living Ones</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite: </b>Pact of The Chain feature
+</p><p>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+</p>
+<h3><span class="mw-headline" id="Grasp_of_Hadar">Grasp of Hadar</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite</b>: <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.
+</p>
+<h3><span class="mw-headline" id="Improved_Pact_Weapon">Improved Pact Weapon</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite: </b>Pact of the Blade feature
+</p><p>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Warlock_Spells" title="Warlock Spells">warlock spells</a>. In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls. Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.
+</p>
+<h3><span class="mw-headline" id="Kiss_of_Mephistopheles">Kiss of Mephistopheles</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite: </b>5th level, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip, the Fiend patron
+</p><p>You can channel the fires of Mephistopheles through your eldritch blast. When you hit a creature with that cantrip, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fireball" title="Fireball">fireball</a> as a bonus action using a warlock spell slot. However, the spell must be centered on a creature you hit with eldritch blast.
+</p>
+<h3><span class="mw-headline" id="Lance_of_Lethargy">Lance of Lethargy</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite</b>: <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>Once on each of your turns when you hit a creature with your <i>eldritch blast</i>, you can reduce that creature's speed by 10 feet until the end of your next turn.
+</p>
+<h3><span class="mw-headline" id="Lifedrinker">Lifedrinker</span></h3>
+<p><b>Prerequisite:</b> 12th level, Pact of the Blade feature
+</p><p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+</p>
+<h3><span class="mw-headline" id="Maddening_Hex">Maddening Hex</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 5th level, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hex" title="Hex">Hex</a> spell or a warlock feature that curses
+</p><p>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+</p>
+<h3><span class="mw-headline" id="Mask_of_Many_Faces">Mask of Many Faces</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Disguise_Self" title="Disguise Self">Disguise Self</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Master_of_Myriad_Forms">Master of Myriad Forms</span></h3>
+<p><b>Prerequisite:</b> 15th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Alter_Self" title="Alter Self">Alter Self</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Minions_of_Chaos">Minions of Chaos</span></h3>
+<p><b>Prerequisite:</b> 9th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conjure_Elemental" title="Conjure Elemental">Conjure Elemental</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Mire_the_Mind">Mire the Mind</span></h3>
+<p><b>Prerequisite:</b> 5th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Slow" title="Slow">Slow</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Misty_Visions">Misty Visions</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Silent_Image" title="Silent Image">Silent Image</a> at will, without expending a spell slot or material components.
+</p>
+<h3><span class="mw-headline" id="One_with_Shadows">One with Shadows</span></h3>
+<p><b>Prerequisite:</b> 5th level
+</p><p>When you are in an area of dim light or darkness, you can use your action to become invisible until you move, take an action or a reaction.
+</p>
+<h3><span class="mw-headline" id="Otherworldly_Leap">Otherworldly Leap</span></h3>
+<p><b>Prerequisite:</b> 9th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Jump" title="Jump">Jump</a> on yourself at will, without expending a spell slot or material components.
+</p>
+<h3><span class="mw-headline" id="Path_of_the_Seeker">Path of the Seeker</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite:</b> The Seeker patron
+</p><p>The Seeker bids you to travel in search of knowledge, and little can prevent you from walking this path. You ignore difficult terrain, have advantage on all checks to escape a grapple, manacles, or rope bindings, and advantage on saving throws against being paralyzed.
+</p>
+<h3><span class="mw-headline" id="Raven_Queen.27s_Blessing">Raven Queen's Blessing</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite:</b> Raven Queen patron, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>When you score a critical hit with your eldritch blast cantrip, pick yourself or an ally you can see within 30 feet of you. The chosen creature can immediately expend a Hit Die to regain hit points equal to the roll + the creature's Constitution modifier (minimum of 1 hit point).
+</p>
+<h3><span class="mw-headline" id="Relentless_Hex">Relentless Hex</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 7th level, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hex" title="Hex">Hex</a> spell or a warlock feature that curses
+</p><p>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+</p>
+<h3><span class="mw-headline" id="Repelling_Blast">Repelling Blast</span></h3>
+<p><b>Prerequisite:</b> <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Eldritch_Blast" title="Eldritch Blast">Eldritch Blast</a> cantrip
+</p><p>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+</p>
+<h3><span class="mw-headline" id="Sculptor_of_Flesh">Sculptor of Flesh</span></h3>
+<p><b>Prerequisite:</b> 7th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Polymorph" title="Polymorph">Polymorph</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Seeker.27s_Speech">Seeker's Speech</span></h3>
+<p><sup>(Unearthed Arcana)</sup>
+</p><p><b>Prerequisite:</b> The Seeker patron
+</p><p>When you complete a long rest, you can pick two languages. You gain the ability to speak, read, and write the chosen languages until you finish your next long rest.
+</p>
+<h3><span class="mw-headline" id="Shroud_of_Shadow">Shroud of Shadow</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 15th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Invisibility" title="Invisibility">Invisibility</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Sign_of_Ill_Omen">Sign of Ill Omen</span></h3>
+<p><b>Prerequisite:</b> 5th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bestow_Curse" title="Bestow Curse">Bestow Curse</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Thief_of_Five_Fates">Thief of Five Fates</span></h3>
+<p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bane" title="Bane">Bane</a> once using a warlock spell slot. You can't do so again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Thirsting_Blade">Thirsting Blade</span></h3>
+<p><b>Prerequisite:</b> 5th level, Pact of the Blade feature
+</p><p>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
+</p>
+<h3><span class="mw-headline" id="Tomb_of_Levistus">Tomb of Levistus</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 5th level
+</p><p>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
+</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Trickster.27s_Escape">Trickster's Escape</span></h3>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p><p><b>Prerequisite:</b> 7th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Freedom_of_Movement" title="Freedom of Movement">Freedom of Movement</a> once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Visions_of_Distant_Realms">Visions of Distant Realms</span></h3>
+<p><b>Prerequisite:</b> 15th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Arcane_Eye" title="Arcane Eye">Arcane Eye</a> at will, without expending a spell slot
+</p>
+<h3><span class="mw-headline" id="Voice_of_the_Chain_Master">Voice of the Chain Master</span></h3>
+<p><b>Prerequisite:</b> Pact of the Chain feature
+</p><p>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+</p>
+<h3><span class="mw-headline" id="Whispers_of_the_Grave">Whispers of the Grave</span></h3>
+<p><b>Prerequisite:</b> 9th level
+</p><p>You can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Speak_with_Dead" title="Speak with Dead">Speak with Dead</a> at will, without expending a spell slot.
+</p>
+<h3><span class="mw-headline" id="Witch_Sight">Witch Sight</span></h3>
+<p><b>Prerequisite:</b> 15th level
+</p><p>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 702/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4228-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7980017980012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

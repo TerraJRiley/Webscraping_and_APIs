@@ -1,0 +1,589 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><dl><dd><i>This article is about the official version of the ranger. For the most recent Unearthed Arcana version, see <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ranger_(Revised)" title="Ranger (Revised)">Ranger (Revised)</a>. For the Unearthed Arcana remade version, see <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ranger_(Alternative)" title="Ranger (Alternative)">Ranger (Alternative)</a>.</i>
+</dd></dl>
+<nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Ranger_Leveling_Table"> Ranger Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Features
+</th><th>Spells Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th><th>5th
+</th></tr>
+<tr>
+<td>1st
+</td><td>+2
+</td><td><a href="#Favored_Enemy">Favored Enemy</a>, <a href="#Natural_Explorer">Natural Explorer</a>
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>2nd
+</td><td>+2
+</td><td><a href="#Fighting_Style">Fighting Style</a>, <a href="#Spellcasting">Spellcasting</a>
+</td><td>2
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>3rd
+</td><td>+2
+</td><td><a href="#Ranger_Archetype">Ranger Archetype</a>, <a href="#Primeval_Awareness">Primeval Awareness</a>
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4th
+</td><td>+2
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>5th
+</td><td>+3
+</td><td><a href="#Extra_Attack">Extra Attack</a>
+</td><td>4
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>6th
+</td><td>+3
+</td><td><a href="#Favored_Enemy">Favored Enemy Improvements</a>, <a href="#Natural_Explorer">Natural Explorer Improvements</a>
+</td><td>4
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7th
+</td><td>+3
+</td><td><a href="#Ranger_Archetype">Ranger Archetype feature</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8th
+</td><td>+3
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>, <a href="#Land.27s_Stride">Land's Stride</a>
+</td><td>5
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>9th
+</td><td>+4
+</td><td>—
+</td><td>6
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10th
+</td><td>+4
+</td><td><a href="#Natural_Explorer">Natural Explorer improvement</a>, <a href="#Hide_in_Plain_Sight">Hide in Plain Sight</a>
+</td><td>6
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11th
+</td><td>+4
+</td><td><a href="#Ranger_Archetype">Ranger Archetype feature</a>
+</td><td>7
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>12th
+</td><td>+4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>7
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13th
+</td><td>+5
+</td><td>—
+</td><td>8
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>14th
+</td><td>+5
+</td><td><a href="#Favored_enemy">Favored enemy improvement</a>, <a href="#Vanish">Vanish</a>
+</td><td>8
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td></tr>
+<tr>
+<td>15th
+</td><td>+5
+</td><td><a href="#Ranger_Archetype">Ranger Archetype feature</a>
+</td><td>9
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td></tr>
+<tr>
+<td>16th
+</td><td>+5
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>9
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td></tr>
+<tr>
+<td>17th
+</td><td>+6
+</td><td>—
+</td><td>10
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td></tr>
+<tr>
+<td>18th
+</td><td>+6
+</td><td><a href="#Feral_Senses">Feral Senses</a>
+</td><td>10
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td></tr>
+<tr>
+<td>19th
+</td><td>+6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>11
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td></tr>
+<tr>
+<td>20th
+</td><td>+6
+</td><td><a href="#Foe_Slayer">Foe Slayer</a>
+</td><td>11
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li><b>Hit Dice:</b> 1d10 per ranger level
+</li><li><b>Hit Points at 1st Level:</b> 10 + Constitution modifier
+</li><li><b>Hit Points at Higher Levels:</b> 1d10 (or 6) + Constitution modifier per ranger level after 1st
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li><b>Armor:</b> Light armor, medium armor, shields
+</li><li><b>Weapon:</b> Simple weapons, martial weapons
+</li><li><b>Tools:</b> None
+</li><li><b>Saving Throws:</b> Strength, Dexterity
+</li><li><b>Skills:</b> Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li>(a) scalemail or (b) leather armor
+</li><li>(a) two shortswords or (b) two simple melee weapons
+</li><li>(a) a dungeoneer's pack or (b) an explorer's pack
+</li><li>A longbow and a quiver of 20 arrows
+</li></ul>
+<p>Alternatively, you can ignore the equipment from your class and background, and start with 5d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Favored_Enemy"> Favored Enemy </span></h2>
+<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and goblins) as favored enemies.
+</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventure.
+</p>
+<h2><span class="mw-headline" id="Natural_Explorer"> Natural Explorer </span></h2>
+<p>Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:
+</p>
+<ul><li>Difficult terrain doesn’t slow your group’s travel.
+</li><li>Your group can’t become lost except by magical means.
+</li><li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+</li><li>If you are traveling alone, you can move stealthily at a normal pace.
+</li><li>When you forage, you find twice as much food as you normally would.
+</li><li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+</li></ul>
+<p>You choose additional favored terrain types at 6th and 10th level.
+</p>
+<h2><span class="mw-headline" id="Fighting_Style"> Fighting Style </span></h2>
+<p>At 2nd level, you adopt a particular style of fighting as your specialty. You can't take a Fighting Style option more than once, even if you later get to choose again.
+</p>
+<ul><li><b>Archery:</b> You gain a +2 bonus to attack rolls you make with ranged weapons.
+</li><li><b>Defense:</b> While you are wearing armor, you gain a +1 bonus to AC.
+</li><li><b>Dueling: </b>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+</li><li><b>Two-Weapon Fighting:</b> When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+</li><li><b>Close Quarters Shooter (Unearthed Arcana):</b> You are trained in making ranged attack at close quarters. When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
+</li><li><b>Tunnel Fighter (Unearthed Arcana):</b> You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+</li><li><b>Mariner (Unearthed Arcana):</b> As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+</li></ul>
+<h2><span class="mw-headline" id="Spellcasting"> Spellcasting </span></h2>
+<p>By the time you reach 2nd level, you have learned to cast spells.
+</p>
+<h3><span class="mw-headline" id="Spell_Slots">Spell Slots</span></h3>
+<p>The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spells_Known_of_1st_Level_and_Higher">Spells Known of 1st Level and Higher</span></h3>
+<p>You know two 1st-level spells of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Ranger_Spells" title="Ranger Spells">ranger spell list</a>.
+</p><p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+</p><p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Wisdom is your spellcasting ability for your ranger spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + your Wisdom modifier
+</p><p><b>Spell attack modifier</b> = your proficiency bonus + your Wisdom modifier
+</p>
+<h2><span class="mw-headline" id="Ranger_Archetype"> Ranger Archetype </span></h2>
+<p>At 3rd level, you choose an archetype that you strive to emulate. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+</p>
+<ul><li><a href="#Beast_Master">Beast Master</a>
+</li><li><a href="#Gloom_Stalker">Gloom Stalker</a>
+</li><li><a href="#Horizon_Walker">Horizon Walker</a>
+</li><li><a href="#Hunter">Hunter</a>
+</li><li><a href="#Monster_Slayer">Monster Slayer</a>
+</li><li><a href="#Primeval_Guardian">Primeval Guardian</a>
+</li></ul>
+<h2><span class="mw-headline" id="Primeval_Awareness"> Primeval Awareness </span></h2>
+<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+</p>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature
+</p>
+<h2><span class="mw-headline" id="Extra_Attack"> Extra Attack </span></h2>
+<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+</p>
+<h2><span class="mw-headline" id="Land.27s_Stride"> Land's Stride </span></h2>
+<p>Starting at 8th level, moving through non-magical difficult terrain costs you no extra movement. You can also pass through non-magical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement.
+</p>
+<h2><span class="mw-headline" id="Hide_in_Plain_Sight"> Hide in Plain Sight </span></h2>
+<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt. plants. soot. and other naturally occurring materials with which to create your camouflage.
+</p><p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+</p>
+<h2><span class="mw-headline" id="Vanish"> Vanish </span></h2>
+<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by non-magical means, unless you choose to leave a trail.
+</p>
+<h2><span class="mw-headline" id="Feral_Senses"> Feral Senses </span></h2>
+<p>At 18th level, when you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+</p><p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+</p>
+<h2><span class="mw-headline" id="Foe_Slayer"> Foe Slayer </span></h2>
+<p>At 20th level, once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+</p>
+<h2><span class="mw-headline" id="Beast_Master"> Beast Master </span></h2>
+<h3><span class="mw-headline" id="Ranger.27s_Companion">Ranger's Companion</span></h3>
+<p>Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast’s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher.
+</p><p>The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn’t take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. Once you have the Extra Attack feature, you can make one attack yourself and you can command the beast to take an Attack action.
+</p><p>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace. If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn’t hostile to you, either the same type of beast as before or a different one.
+</p><p>Like any creature, the beast can spend Hit Dice during a short rest. If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack. If you don't issue a command, the beast takes the Dodge action.
+</p>
+<h3><span class="mw-headline" id="Exceptional_Training">Exceptional Training</span></h3>
+<p>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks are now considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+</p>
+<h3><span class="mw-headline" id="Bestial_Fury">Bestial Fury</span></h3>
+<p>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multi-attack action if it has that action.
+</p>
+<h3><span class="mw-headline" id="Share_Spells">Share Spells</span></h3>
+<p>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.
+</p>
+<h2><span class="mw-headline" id="Gloom_Stalker"> Gloom Stalker </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Gloom_Stalker_Magic">Gloom Stalker Magic</span></h3>
+<p>You learn an additional spell when you reach certain levels in this class. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know. 
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Ranger Level
+</th><th>Spell
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Disguise_Self" title="Disguise Self">Disguise Self</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Rope_Trick" title="Rope Trick">Rope Trick</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Fear" title="Fear">Fear</a>
+</td></tr>
+<tr>
+<td>13th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Greater_Invisibility" title="Greater Invisibility">Greater Invisibility</a>
+</td></tr>
+<tr>
+<td>17th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Seeming" title="Seeming">Seeming</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Dread_Ambusher">Dread Ambusher</span></h3>
+<p>At 3rd level, you can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+</p><p>At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
+</p>
+<h3><span class="mw-headline" id="Umbral_Sight">Umbral Sight</span></h3>
+<p>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+</p><p>You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
+</p>
+<h3><span class="mw-headline" id="Iron_Mind">Iron Mind</span></h3>
+<p>By 7th level, you gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
+</p>
+<h3><span class="mw-headline" id="Stalker.27s_Flurry">Stalker's Flurry</span></h3>
+<p>At 11th level, once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
+</p>
+<h3><span class="mw-headline" id="Shadowy_Dodge">Shadowy Dodge</span></h3>
+<p>Starting at 15th level, whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.  
+</p>
+<h2><span class="mw-headline" id="Horizon_Walker"> Horizon Walker </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Horizon_Walker_Magic">Horizon Walker Magic</span></h3>
+<p>You learn an additional spell when you reach certain levels in this class. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Ranger Level
+</th><th>Spell
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Evil_and_Good" title="Protection from Evil and Good">Protection from Evil and Good</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Misty_Step" title="Misty Step">Misty Step</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Haste" title="Haste">Haste</a>
+</td></tr>
+<tr>
+<td>13th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Banishment" title="Banishment">Banishment</a>
+</td></tr>
+<tr>
+<td>17th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Teleportation_Circle" title="Teleportation Circle">Teleportation Circle</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Detect_Portal">Detect Portal</span></h3>
+<p>At 3rd level, as an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
+</p><p>Once you use this feature, you can’t use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Planar_Warrior">Planar Warrior</span></h3>
+<p>At 3rd level, as a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.
+</p>
+<h3><span class="mw-headline" id="Ethereal_Step">Ethereal Step</span></h3>
+<p>At 7th level, as a bonus action, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Etherealness" title="Etherealness">Etherealness</a> with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+</p><p>Once you use this feature, you can’t use it again until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Distant_Strike">Distant Strike</span></h3>
+<p>At 11th level, when you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+</p><p>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
+</p>
+<h3><span class="mw-headline" id="Spectral_Defense">Spectral Defense</span></h3>
+<p>At 15th level, when you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack’s damage on this turn.
+</p>
+<h2><span class="mw-headline" id="Hunter"> Hunter </span></h2>
+<h3><span class="mw-headline" id="Hunter.27s_Prey">Hunter's Prey</span></h3>
+<p>At 3rd level, you gain one of the following features of your choice.
+</p>
+<ul><li><b>Colossus Slayer:</b> When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+</li><li><b>Giant Killer:</b> When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+</li><li><b>Horde Breaker:</b> Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+</li></ul>
+<h3><span class="mw-headline" id="Defensive_Tactics">Defensive Tactics</span></h3>
+<p>At 7th level, you gain one of the following features of your choice.
+</p>
+<ul><li><b>Escape the Horde:</b> Opportunity attacks against you are made with disadvantage.
+</li><li><b>Multiattack Defense:</b> When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+</li><li><b>Steel Will:</b> You have advantage on saving throws against being frightened.
+</li></ul>
+<h3><span class="mw-headline" id="Multi-attack">Multi-attack</span></h3>
+<p>At 11th level, you gain one of the following features of your choice.
+</p>
+<ul><li><b>Volley:</b> You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+</li><li><b>Whirlwind Attack:</b> You can use your action to make a melee attack against any number of creatures within 5 feet of you. Use a separate attack roll for each target.
+</li></ul>
+<h3><span class="mw-headline" id="Superior_Hunter.27s_Defense">Superior Hunter's Defense</span></h3>
+<p>At 15th level, you gain one of the following features of your choice.
+</p>
+<ul><li><b>Evasion:</b> When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+</li><li><b>Stand Against the Tide: </b>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+</li><li><b>Uncanny Dodge:</b> When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+</li></ul>
+<h2><span class="mw-headline" id="Monster_Slayer"> Monster Slayer </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Monster_Slayer_Magic">Monster Slayer Magic</span></h3>
+<p>You learn an additional spell when you reach certain levels in this class. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Ranger Level
+</th><th>Spell
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Protection_from_Evil_and_Good" title="Protection from Evil and Good">Protection from Evil and Good</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Zone_of_Truth" title="Zone of Truth">Zone of Truth</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Magic_Circle" title="Magic Circle">Magic Circle</a>
+</td></tr>
+<tr>
+<td>13th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Banishment" title="Banishment">Banishment</a>
+</td></tr>
+<tr>
+<td>17th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Hold_Monster" title="Hold Monster">Hold Monster</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Hunter.27s_Sense">Hunter's Sense</span></h3>
+<p>At 3rd level, as an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.
+</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Slayer.27s_Prey">Slayer's Prey</span></h3>
+<p>Starting at 3rd level, as a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.
+</p><p>This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
+</p>
+<h3><span class="mw-headline" id="Supernatural_Defense">Supernatural Defense</span></h3>
+<p>At 7th level, whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that targets grapple, add 1d6 to your roll.
+</p>
+<h3><span class="mw-headline" id="Magic-User.27s_Nemesis">Magic-User's Nemesis</span></h3>
+<p>At 11th level, when you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.  
+</p>
+<h3><span class="mw-headline" id="Slayer.27s_Counter">Slayer's Counter</span></h3>
+<p>At 15th level, if the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.
+</p>
+<h2><span class="mw-headline" id="Primeval_Guardian"> Primeval Guardian </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Guardian_Magic">Guardian Magic</span></h3>
+<p>You learn an additional spell when you reach certain levels in this class. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
+</p>
+<table class="article-table">
+<tbody><tr>
+<th>Ranger Level
+</th><th>Spell
+</th></tr>
+<tr>
+<td>3rd
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Entangle" title="Entangle">Entangle</a>
+</td></tr>
+<tr>
+<td>5th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Enhance_Ability" title="Enhance Ability">Enhance Ability</a>
+</td></tr>
+<tr>
+<td>9th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conjure_Animals" title="Conjure Animals">Conjure Animals</a>
+</td></tr>
+<tr>
+<td>13th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Giant_Insect" title="Giant Insect">Giant Insect</a>
+</td></tr>
+<tr>
+<td>17th
+</td><td><a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Insect_Plague" title="Insect Plague">Insect Plague</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Guardian_Soul">Guardian Soul</span></h3>
+<p>Starting at 3rd level, as a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated. You undergo the following changes while in your guardian form:
+</p>
+<ul><li>Your size becomes Large, unless you were larger.
+</li><li>Any speed you have becomes 5 feet, unless the speed was lower.
+</li><li>Your reach increases by 5 feet.
+</li><li>You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.
+</li></ul>
+<h3><span class="mw-headline" id="Piercing_Thorns">Piercing Thorns</span></h3>
+<p>At 3rd level, once during each of your turns, you can deal an additional 1d6 piercing damage to one creature you hit with a weapon attack.
+</p>
+<h3><span class="mw-headline" id="Ancient_Fortitude">Ancient Fortitude</span></h3>
+<p>At 7th level,your hit point maximum and current hit points increase by 2 per ranger level when you assume your guardian form. This increase lasts until you leave the form; your hit point maximum then returns to normal, but your current hit points remain the same, unless they must decrease to abide by your hit point maximum.
+</p>
+<h3><span class="mw-headline" id="Rooted_Defense">Rooted Defense</span></h3>
+<p>At 11th level, while you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.
+</p>
+<h3><span class="mw-headline" id="Guardian_Aura">Guardian Aura</span></h3>
+<p>Starting at 15th level, when any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 415/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4871-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7990017990012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>

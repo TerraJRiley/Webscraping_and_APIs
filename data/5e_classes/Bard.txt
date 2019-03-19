@@ -1,0 +1,553 @@
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><nav class="toc" data-loaded="false" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Bard_Leveling_Table"> Bard Leveling Table </span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Level
+</th><th>Proficiency Bonus
+</th><th>Features
+</th><th>Cantrips Known
+</th><th>Spells Known
+</th><th>1st
+</th><th>2nd
+</th><th>3rd
+</th><th>4th
+</th><th>5th
+</th><th>6th
+</th><th>7th
+</th><th>8th
+</th><th>9th
+</th></tr>
+<tr>
+<td>1st
+</td><td>+2
+</td><td><a href="#Spellcasting">Spellcasting</a>, <a href="#Bardic_Inspiration">Bardic Inspiration (d6)</a>
+</td><td>2
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>2nd
+</td><td>+2
+</td><td><a href="#Jack_of_All_Trades">Jack of All Trades</a>, <a href="#Song_of_Rest">Song of Rest (d6)</a>
+</td><td>2
+</td><td>5
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>3rd
+</td><td>+2
+</td><td><a href="#Bard_College">Bard College</a>, <a href="#Expertise">Expertise</a>
+</td><td>2
+</td><td>6
+</td><td>4
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>4th
+</td><td>+2
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>7
+</td><td>4
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>5th
+</td><td>+3
+</td><td><a href="#Bardic_Inspiration">Bardic Inspiration (d8)</a>, <a href="#Font_of_Inspiration">Font of Inspiration</a>
+</td><td>3
+</td><td>8
+</td><td>4
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>6th
+</td><td>+3
+</td><td><a href="#Countercharm">Countercharm</a>, <a href="#Bard_College">Bard College feature</a>
+</td><td>3
+</td><td>9
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>7th
+</td><td>+3
+</td><td>—
+</td><td>3
+</td><td>10
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>8th
+</td><td>+3
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>3
+</td><td>11
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>9th
+</td><td>+4
+</td><td><a href="#Song_of_Rest">Song of Rest (d8)</a>
+</td><td>3
+</td><td>12
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>10th
+</td><td>+4
+</td><td><a href="#Bardic_Inspiration">Bardic Inspiration (d10)</a>, <a href="#Expertise">Expertise</a>, <a href="#Magical_Secrets">Magical Secrets</a>
+</td><td>4
+</td><td>14
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>—
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>11th
+</td><td>+4
+</td><td>—
+</td><td>4
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>12th
+</td><td>+4
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>15
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>—
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>13th
+</td><td>+5
+</td><td><a href="#Song_of_Rest">Song of Rest (d10)</a>
+</td><td>4
+</td><td>16
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>14th
+</td><td>+5
+</td><td><a href="#Magical_Secrets">Magical Secrets</a>, <a href="#Bard_College">Bard College feature</a>
+</td><td>4
+</td><td>18
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>—
+</td><td>—
+</td></tr>
+<tr>
+<td>15th
+</td><td>+5
+</td><td><a href="#Bardic_Inspiration">Bardic Inspiration (d12)</a>
+</td><td>4
+</td><td>19
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>-
+</td></tr>
+<tr>
+<td>16th
+</td><td>+5
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>19
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>-
+</td></tr>
+<tr>
+<td>17th
+</td><td>+6
+</td><td><a href="#Song_of_Rest">Song of Rest (d12)</a>
+</td><td>4
+</td><td>20
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>18th
+</td><td>+6
+</td><td><a href="#Magical_Secrets">Magical Secrets</a>
+</td><td>4
+</td><td>22
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>1
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>19th
+</td><td>+6
+</td><td><a href="#Ability_Score_Improvement">Ability Score Improvement</a>
+</td><td>4
+</td><td>22
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>1
+</td><td>1
+</td><td>1
+</td></tr>
+<tr>
+<td>20th
+</td><td>+6
+</td><td><a href="#Superior_Inspiration">Superior Inspiration</a>
+</td><td>4
+</td><td>22
+</td><td>4
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>3
+</td><td>2
+</td><td>2
+</td><td>1
+</td><td>1
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Basic_Features"> Basic Features </span></h2>
+<h3><span class="mw-headline" id="Hit_Points">Hit Points</span></h3>
+<ul><li><b>Hit Dice:</b> 1d8 per bard level
+</li><li><b>Hit Points at 1st Level:</b> 8 + your Constitution modifier
+</li><li><b>Hit Points at Higher Levels:</b> 1d8 (or 5) + your Constitution modifier per bard level after 1st
+</li></ul>
+<h3><span class="mw-headline" id="Proficiencies">Proficiencies</span></h3>
+<ul><li><b>Armor:</b> Light armor
+</li><li><b>Weapons:</b> Simple weapons, hand crossbows, longswords, rapiers, shortswords
+</li><li><b>Tools:</b> Three musical instruments of your choice
+</li><li><b>Saving Throws:</b> Dexterity, Charisma
+</li><li><b>Skills:</b> Choose any three
+</li></ul>
+<h3><span class="mw-headline" id="Equipment">Equipment</span></h3>
+<ul><li>(a) a rapier, (b) a longsword, or (c) any simple weapon
+</li><li>(a) a Diplomat's Pack or (b) an Entertainer's Pack
+</li><li>(a) a lute or (b) any other musical instrument
+</li><li>Leather armor and a dagger
+</li></ul>
+<p>Alternatively, you may ignore the equipment from your class and background, and start with 5d4 x 10 gp.
+</p>
+<h2><span class="mw-headline" id="Spellcasting"> Spellcasting </span></h2>
+<h3><span class="mw-headline" id="Cantrips">Cantrips</span></h3>
+<p>You know two cantrips of your choice from the <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Bard_Spells" title="Bard Spells">bard spell list</a>. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
+</p>
+<h3><span class="mw-headline" id="Spell_Slots">Spell Slots</span></h3>
+<p>The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Spells_Known_of_1st_Level_and_Higher">Spells Known of 1st Level and Higher</span></h3>
+<p>You know four 1st-level spells of your choice from the bard spell list. You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots.
+</p><p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Ability">Spellcasting Ability</span></h3>
+<p>Charisma is your spellcasting ability for your bard spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+</p><p><b>Spell save DC</b> = 8 + your proficiency bonus + your Charisma modifier
+</p><p><b>Spell Attack modifier</b> = your proficiency bonus + your Charisma modifier
+</p>
+<h3><span class="mw-headline" id="Ritual_Casting">Ritual Casting</span></h3>
+<p>You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+</p>
+<h3><span class="mw-headline" id="Spellcasting_Focus">Spellcasting Focus</span></h3>
+<p>You can use a musical instrument as a spellcasting focus for your bard spells.
+</p>
+<h2><span class="mw-headline" id="Bardic_Inspiration"> Bardic Inspiration </span></h2>
+<p>You can use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest. Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+</p>
+<h2><span class="mw-headline" id="Jack_of_All_Trades"> Jack of All Trades </span></h2>
+<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+</p>
+<h2><span class="mw-headline" id="Song_of_Rest"> Song of Rest </span></h2>
+<p>Beginning at 2nd level, if you or any friendly creatures who can hear you make a performance regain hit points by spending hit dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
+</p><p>The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+</p>
+<h2><span class="mw-headline" id="Bard_College"> Bard College </span></h2>
+<p>At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level.
+</p>
+<ul><li><a href="#College_of_Glamour">College of Glamour</a>
+</li><li><a href="#College_of_Lore">College of Lore</a>
+</li><li><a href="#College_of_Satire">College of Satire</a>
+</li><li><a href="#College_of_Swords">College of Swords</a>
+</li><li><a href="#College_of_Valor">College of Valor</a>
+</li><li><a href="#College_of_Whispers">College of Whispers</a>
+</li></ul>
+<h2><span class="mw-headline" id="Expertise"> Expertise </span></h2>
+<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 10th level, you can choose another two skill proficiencies to gain this benefit.
+</p>
+<h2><span class="mw-headline" id="Ability_Score_Improvement"> Ability Score Improvement </span></h2>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+</p>
+<h2><span class="mw-headline" id="Font_of_Inspiration">Font of Inspiration</span></h2>
+<p>Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+</p>
+<h2><span class="mw-headline" id="Countercharm"> Countercharm </span></h2>
+<p>At 6th level, as an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Frightened" title="Conditions">frightened</a> or <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Charmed" title="Conditions">charmed</a>. A creature must be able to hear you to gain this benefit. The performance ends early if you are <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Incapacitated" title="Conditions">incapacitated</a> or silenced or if you voluntarily end it (no action required).
+</p>
+<h2><span class="mw-headline" id="Magical_Secrets"> Magical Secrets </span></h2>
+<p>At 10th level, choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+</p><p>The chosen spells count as bard spells for you and are included in the number in the spells known column of the Bard table.
+</p><p>You learn two additional spells from any classes at 14th level and again at 18th level.
+</p>
+<h2><span class="mw-headline" id="Superior_Inspiration"> Superior Inspiration </span></h2>
+<p>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+</p>
+<h2><span class="mw-headline" id="College_of_Glamour"> College of Glamour </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Mantle_of_Inspiration">Mantle of Inspiration</span></h3>
+<p>At 3rd level, as a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and that can see you within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one). Each of them gains 5 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.
+</p><p>The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.
+</p>
+<h3><span class="mw-headline" id="Enthralling_Performance">Enthralling Performance</span></h3>
+<p>Starting at 3rd level, if you perform for at least 1 minute, you can attempt to inspire wonder in your audience. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Charmed" title="Conditions">charmed</a> by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who talks to it, and it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. 
+</p><p>If a target succeeds on its saving throw, the target has no hint that you tried to charm it. 
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest. 
+</p>
+<h3><span class="mw-headline" id="Mantle_of_Majesty">Mantle of Majesty</span></h3>
+<p>At 6th level, as a bonus action, you cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Command" title="Command">Command</a>, without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your concentration ends (as if you were concentrating on a spell). During this time, you can cast Command as a bonus action on each of your turns, without expending a spell slot.
+</p><p>Any creature charmed by you automatically fails its saving throw against the Command you cast with this feature.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<h3><span class="mw-headline" id="Unbreakable_Majesty">Unbreakable Majesty</span></h3>
+<p>At 14th level, as a bonus action, you can assume a magically majestic presence for 1 minute or until you are <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Incapacitated" title="Conditions">incapacitated</a>. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.  
+</p><p>Once you assume this majestic presence, you can't do so again until you finish a short or long rest.  
+</p>
+<h2><span class="mw-headline" id="College_of_Lore"> College of Lore </span></h2>
+<h3><span class="mw-headline" id="Bonus_Proficiencies">Bonus Proficiencies</span></h3>
+<p>At 3rd level, you gain proficiency with three skills of your choice.
+</p>
+<h3><span class="mw-headline" id="Cutting_Words">Cutting Words</span></h3>
+<p>Also at 3rd level, when a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Charmed" title="Conditions">charmed</a>.
+</p>
+<h3><span class="mw-headline" id="Additional_Magical_Secrets">Additional Magical Secrets</span></h3>
+<p>At 6th level, you learn two spells of your choice from any classes. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.
+</p>
+<h3><span class="mw-headline" id="Peerless_Skill">Peerless Skill</span></h3>
+<p>Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+</p>
+<h2><span class="mw-headline" id="College_of_Satire"> College of Satire </span></h2>
+<p><sup>(Unearthed Arcana)</sup>
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_2">Bonus Proficiencies</span></h3>
+<p>At 3rd level, you gain proficiency with <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Adventuring_Gear" title="Adventuring Gear">Thieves' Tools</a>. You also gain proficiency in Sleight of Hand and one additional skill of your choice. If you are already proficient with either of these, choose another skill proficiency for each proficiency you already have.
+</p>
+<h3><span class="mw-headline" id="Tumbling_Fool">Tumbling Fool</span></h3>
+<p>At 3rd level, as a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:
+</p>
+<ul><li> You gain the benefits of taking the Dash and Disengage actions.
+</li><li> You gain a climbing speed equal to your current speed.
+</li><li> You take half damage from falling.
+</li></ul>
+<h3><span class="mw-headline" id="Fool.27s_Insight">Fool's Insight</span></h3>
+<p>At 6th level, you can cast <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Detect_Thoughts" title="Detect Thoughts">Detect Thoughts</a> up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.
+</p><p>If a creature resists your attempt to probe deeper and succeeds at its saving throw against your Detect Thoughts, it immediately suffers an embarrassing social gaffe.
+</p>
+<h3><span class="mw-headline" id="Fool.27s_Luck">Fool's Luck</span></h3>
+<p>At 14th level, you can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one.
+</p><p>If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.
+</p>
+<h2><span class="mw-headline" id="College_of_Swords"> College of Swords </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_3">Bonus Proficiencies</span></h3>
+<p>At 3rd level, you gain proficiency with <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Armor_and_Shields" title="Armor and Shields">medium armor</a> and the scimitar.
+</p><p>If you're proficient with a simple or martial melee <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Weapons" title="Weapons">weapon</a>, you can use it as a spellcasting focus for your bard spells.
+</p>
+<h3><span class="mw-headline" id="Fighting_Style">Fighting Style</span></h3>
+<p>At 3rd level, choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
+</p>
+<ul><li><b>Dueling:</b> When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+</li><li><b>Two-Weapon Fighting:</b> When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+</li></ul>
+<h3><span class="mw-headline" id="Blade_Flourish">Blade Flourish</span></h3>
+<p>At 3rd level, whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+</p>
+<ul><li><b>Defensive Flourish:</b> You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.
+</li><li><b>Slashing Flourish:</b> You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.
+</li><li><b>Mobile Flourish:</b> You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target. 
+</li></ul>
+<h3><span class="mw-headline" id="Extra_Attack">Extra Attack</span></h3>
+<p>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+</p>
+<h3><span class="mw-headline" id="Master.27s_Flourish">Master's Flourish</span></h3>
+<p>Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
+</p>
+<h2><span class="mw-headline" id="College_of_Valor"> College of Valor </span></h2>
+<h3><span class="mw-headline" id="Bonus_Proficiencies_4">Bonus Proficiencies</span></h3>
+<p>At 3rd level, you gain proficiency with <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Armor_and_Shields" title="Armor and Shields">medium armor</a>, <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Armor_and_Shields" title="Armor and Shields">shields</a>, and martial <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Weapons" title="Weapons">weapons</a>.
+</p>
+<h3><span class="mw-headline" id="Combat_Inspiration">Combat Inspiration</span></h3>
+<p>Also at 3rd level, a creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.
+</p>
+<h3><span class="mw-headline" id="Extra_Attack_2">Extra Attack</span></h3>
+<p>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+</p>
+<h3><span class="mw-headline" id="Battle_Magic">Battle Magic</span></h3>
+<p>At 14th level, when you use your action to a cast a bard spell, you can make one weapon attack as a bonus action.
+</p>
+<h2><span class="mw-headline" id="College_of_Whispers"> College of Whispers </span></h2>
+<p><sup>(Xanathar's Guide to Everything)</sup>
+</p>
+<h3><span class="mw-headline" id="Psychic_Blades">Psychic Blades</span></h3>
+<p>At 3rd level, when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra 2d6 psychic damage to that target. You can do so only once per round on your turn.
+</p><p>The psychic damage increases when you reach certain levels in this class, increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.
+</p>
+<h3><span class="mw-headline" id="Words_of_Terror">Words of Terror</span></h3>
+<p>At 3rd level, if you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Frightened" title="Conditions">frightened</a> of you or another creature of your choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. 
+</p><p>If the target succeeds on its saving throw, the target has no hint that you tried to frighten it. 
+</p><p>Once you use this feature, you can't use it again until you finish a short or long rest. 
+</p>
+<h3><span class="mw-headline" id="Mantle_of_Whispers">Mantle of Whispers</span></h3>
+<p>At 6th level, when a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.
+</p><p>You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.
+</p><p>While you're in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.
+</p><p>Another creature can see through this disguise by succeeding on a Wisdom (Insight) check contested by your Charisma (Deception) check. You gain a +5 bonus to your check.
+</p><p>Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.
+</p>
+<h3><span class="mw-headline" id="Shadow_Lore">Shadow Lore</span></h3>
+<p>At 14th level, as an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
+</p><p>On a failed saving throw, the target is <a href="/web/20190207025037/https://dnd5e.fandom.com/wiki/Conditions#Charmed" title="Conditions">charmed</a> by you for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.
+</p><p>The charmed creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
+</p><p>When the effect ends, the creature has no understanding of why it held you in such fear.
+</p><p>Once you use this feature, you can't use it again until you finish a long rest.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 408/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key engl393dnd5th:pcache:idhash:4444-0!*!0!!en!*!* -->
+<noscript>&lt;link rel="stylesheet" href="https://web.archive.org/web/20190207025037cs_/https://slot1-images.wikia.nocookie.net/__cb7990017990012/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css"/&gt;</noscript></div>
